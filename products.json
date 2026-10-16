@@ -1,1003 +1,2182 @@
 {
-  "products": {
-    "95085716592": {
-      "id": "95085716592",
-      "name": "푸푸펫츠 반려동물 스마트 자동 급수기",
-      "keyword": "강아지 자동급수기",
-      "firstSeen": "2026-10-14",
-      "history": [
-        {
-          "date": "2026-10-14",
-          "rank": 1,
-          "price": 53900,
-          "review": 1224,
-          "rating": 5.0
-        }
-      ],
-      "videoStatus": "게시",
-      "postUrl": "https://youtube.com/shorts/y6OntEC0V_I",
-      "usedAt": "2026-10-14",
-      "lastSeen": "2026-10-14",
-      "postedAt": "2026-10-15",
-      "postedPrice": 53900,
-      "deepLink": "https://link.coupang.com/a/hQh1jkpFKe",
-      "channel": "YouTube(공개) + Instagram Reels(공개)",
-      "hubUrl": "https://youtu.be/QiKZZvvCnHI",
-      "revision": "v2 (배지 상품명 · 캐릭터 상향 · AI배지 제거 · 선명도 개선)",
-      "deepLinkInstagram": "https://link.coupang.com/a/hRyqXB2l5M",
-      "postUrlInstagram": "https://www.instagram.com/shin.hotae/reel/DegXno_u_-l/"
+ "products": {
+  "9148465245": {
+   "videoStatus": "게시",
+   "postUrl": "https://youtube.com/shorts/y6OntEC0V_I",
+   "usedAt": "2026-10-14",
+   "postedAt": "2026-10-15",
+   "postedPrice": 53900,
+   "deepLink": "https://link.coupang.com/a/hQh1jkpFKe",
+   "channel": "YouTube(공개) + Instagram Reels(공개)",
+   "hubUrl": "https://youtu.be/QiKZZvvCnHI",
+   "revision": "v2 (배지 상품명 · 캐릭터 상향 · AI배지 제거 · 선명도 개선)",
+   "deepLinkInstagram": "https://link.coupang.com/a/hRyqXB2l5M",
+   "postUrlInstagram": "https://www.instagram.com/shin.hotae/reel/DegXno_u_-l/",
+   "id": "9148465245",
+   "productId": "9148465245",
+   "vendorItemId": "95085716592",
+   "name": "푸푸펫츠 반려동물 스마트 자동 급수기, 1개, 그레이",
+   "keyword": "강아지 자동급수기",
+   "firstSeen": "2026-10-14",
+   "history": [
+    {
+     "date": "2026-10-14",
+     "rank": 1,
+     "price": 53900,
+     "review": 1224,
+     "rating": 5.0,
+     "keyword": "강아지 자동급수기"
     },
-    "91009951333": {
-      "id": "91009951333",
-      "name": "Bornoon 자동 급수기 2L + 필터 2p",
-      "keyword": "강아지 자동급수기",
-      "firstSeen": "2026-10-14",
-      "history": [
-        {
-          "date": "2026-10-14",
-          "rank": 2,
-          "price": 19870,
-          "review": 1029,
-          "rating": 4.5
-        }
-      ],
-      "videoStatus": "미생성",
-      "postUrl": null,
-      "usedAt": null,
-      "lastSeen": "2026-10-14"
-    },
-    "91762829831": {
-      "id": "91762829831",
-      "name": "조이쥬드 자동 급수기 1.5L",
-      "keyword": "강아지 자동급수기",
-      "firstSeen": "2026-10-14",
-      "history": [
-        {
-          "date": "2026-10-14",
-          "rank": 3,
-          "price": 11900,
-          "review": 321,
-          "rating": 4.5
-        }
-      ],
-      "videoStatus": "미생성",
-      "postUrl": null,
-      "usedAt": null,
-      "lastSeen": "2026-10-14"
-    },
-    "90924915879": {
-      "id": "90924915879",
-      "name": "페블펫 3중여과 워터슬라이드 자동급수기 IPW200",
-      "keyword": "강아지 자동급수기",
-      "firstSeen": "2026-10-14",
-      "history": [
-        {
-          "date": "2026-10-14",
-          "rank": 4,
-          "price": 19900,
-          "review": 1288,
-          "rating": 4.5
-        }
-      ],
-      "videoStatus": "미생성",
-      "postUrl": null,
-      "usedAt": null,
-      "lastSeen": "2026-10-14"
-    },
-    "88742620717": {
-      "id": "88742620717",
-      "name": "파우시 자동급수기 3.2L 스테인리스",
-      "keyword": "강아지 자동급수기",
-      "firstSeen": "2026-10-14",
-      "history": [
-        {
-          "date": "2026-10-14",
-          "rank": 5,
-          "price": 34000,
-          "review": 501,
-          "rating": 4.5
-        }
-      ],
-      "videoStatus": "미생성",
-      "postUrl": null,
-      "usedAt": null,
-      "lastSeen": "2026-10-14"
-    },
-    "93408208456": {
-      "id": "93408208456",
-      "name": "마카롱 플라워 순환식 자동급수기 1.5L USB",
-      "keyword": "강아지 자동급수기",
-      "firstSeen": "2026-10-14",
-      "history": [
-        {
-          "date": "2026-10-14",
-          "rank": 6,
-          "price": 12500,
-          "review": 52,
-          "rating": 5.0
-        }
-      ],
-      "videoStatus": "미생성",
-      "postUrl": null,
-      "usedAt": null,
-      "lastSeen": "2026-10-14"
-    },
-    "93957985707": {
-      "id": "93957985707",
-      "name": "펫그래비티 무선 무필터 정수기 3L",
-      "keyword": "강아지 자동급수기",
-      "firstSeen": "2026-10-14",
-      "history": [
-        {
-          "date": "2026-10-14",
-          "rank": 7,
-          "price": 48900,
-          "review": 404,
-          "rating": 5.0
-        }
-      ],
-      "videoStatus": "미생성",
-      "postUrl": null,
-      "usedAt": null,
-      "lastSeen": "2026-10-14"
-    },
-    "90995011008": {
-      "id": "90995011008",
-      "name": "파우시 실린더 도자기 자동급수기",
-      "keyword": "강아지 자동급수기",
-      "firstSeen": "2026-10-14",
-      "history": [
-        {
-          "date": "2026-10-14",
-          "rank": 8,
-          "price": 34840,
-          "review": 181,
-          "rating": 4.5
-        }
-      ],
-      "videoStatus": "미생성",
-      "postUrl": null,
-      "usedAt": null,
-      "lastSeen": "2026-10-14"
-    },
-    "95983822344": {
-      "id": "95983822344",
-      "name": "파우시 무선 자동급수기 스테인리스",
-      "keyword": "강아지 자동급수기",
-      "firstSeen": "2026-10-14",
-      "history": [
-        {
-          "date": "2026-10-14",
-          "rank": 9,
-          "price": 50000,
-          "review": 177,
-          "rating": 5.0
-        }
-      ],
-      "videoStatus": "미생성",
-      "postUrl": null,
-      "usedAt": null,
-      "lastSeen": "2026-10-14"
-    },
-    "92855728584": {
-      "id": "92855728584",
-      "name": "디클펫 반려동물 자동급식기 AT-310 4L",
-      "keyword": "강아지 자동급식기",
-      "firstSeen": "2026-10-14",
-      "lastSeen": "2026-10-15",
-      "history": [
-        {
-          "date": "2026-10-14",
-          "rank": 1,
-          "price": 41210,
-          "review": 2531,
-          "rating": 5.0
-        },
-        {
-          "date": "2026-10-15",
-          "rank": 1,
-          "price": 41110,
-          "review": 2533,
-          "rating": 5.0
-        }
-      ],
-      "videoStatus": "게시",
-      "usedAt": "2026-10-15",
-      "postedAt": "2026-10-15",
-      "postUrl": "https://youtube.com/shorts/Eb7vIijBPXU",
-      "deepLink": "https://link.coupang.com/a/hRg8mTRdee",
-      "postedPrice": 41110,
-      "channel": "YouTube(공개) + Instagram Reels(공개)",
-      "coupangIds": {
-        "productId": "7156630079",
-        "itemId": "18002937916",
-        "vendorItemId": "92855728584"
-      },
-      "hubUrl": "https://youtu.be/QiKZZvvCnHI",
-      "revision": "v2 (배지 상품명 · 캐릭터 상향 · AI배지 제거 · 선명도 개선)",
-      "deepLinkInstagram": "https://link.coupang.com/a/hRyu8xTLCC",
-      "postUrlInstagram": "https://www.instagram.com/shin.hotae/reel/DegYaa7uwpi/"
-    },
-    "93116627330": {
-      "id": "93116627330",
-      "name": "디클펫 반려동물 자동급식기 AT-210 4L",
-      "keyword": "강아지 자동급식기",
-      "firstSeen": "2026-10-14",
-      "history": [
-        {
-          "date": "2026-10-14",
-          "rank": 2,
-          "price": 44810,
-          "review": 1447,
-          "rating": 5.0
-        }
-      ],
-      "videoStatus": "미생성",
-      "postUrl": null,
-      "usedAt": null,
-      "lastSeen": "2026-10-14"
-    },
-    "93999151657": {
-      "id": "93999151657",
-      "name": "파우시 강아지 고양이 자동급식기 3L",
-      "keyword": "강아지 자동급식기",
-      "firstSeen": "2026-10-14",
-      "history": [
-        {
-          "date": "2026-10-14",
-          "rank": 3,
-          "price": 34670,
-          "review": 1178,
-          "rating": 4.5
-        }
-      ],
-      "videoStatus": "미생성",
-      "postUrl": null,
-      "usedAt": null,
-      "lastSeen": "2026-10-14"
-    },
-    "90916690809": {
-      "id": "90916690809",
-      "name": "바램펫 밀리 스마트 반려동물 자동 급식기 2.6kg",
-      "keyword": "강아지 자동급식기",
-      "firstSeen": "2026-10-14",
-      "history": [
-        {
-          "date": "2026-10-14",
-          "rank": 4,
-          "price": 129000,
-          "review": 1679,
-          "rating": 5.0
-        }
-      ],
-      "videoStatus": "미생성",
-      "postUrl": null,
-      "usedAt": null,
-      "lastSeen": "2026-10-14"
-    },
-    "74705286857": {
-      "id": "74705286857",
-      "name": "팻위즈 스마트홈캠 반려동물 자동 급식기 4L",
-      "keyword": "강아지 자동급식기",
-      "firstSeen": "2026-10-14",
-      "history": [
-        {
-          "date": "2026-10-14",
-          "rank": 5,
-          "price": 59900,
-          "review": 492,
-          "rating": 5.0
-        }
-      ],
-      "videoStatus": "미생성",
-      "postUrl": null,
-      "usedAt": null,
-      "lastSeen": "2026-10-14"
-    },
-    "94734108312": {
-      "id": "94734108312",
-      "name": "디토펫 반려동물 자동급식기 4L",
-      "keyword": "강아지 자동급식기",
-      "firstSeen": "2026-10-14",
-      "history": [
-        {
-          "date": "2026-10-14",
-          "rank": 6,
-          "price": 29900,
-          "review": 56,
-          "rating": 5.0
-        }
-      ],
-      "videoStatus": "미생성",
-      "postUrl": null,
-      "usedAt": null,
-      "lastSeen": "2026-10-14"
-    },
-    "94133972887": {
-      "id": "94133972887",
-      "name": "HULULU 대용량 타이머 자동 급식기",
-      "keyword": "강아지 자동급식기",
-      "firstSeen": "2026-10-14",
-      "history": [
-        {
-          "date": "2026-10-14",
-          "rank": 7,
-          "price": 32800,
-          "review": 273,
-          "rating": 4.5
-        }
-      ],
-      "videoStatus": "미생성",
-      "postUrl": null,
-      "usedAt": null,
-      "lastSeen": "2026-10-14"
-    },
-    "94659428503": {
-      "id": "94659428503",
-      "name": "칼노 대용량 와이파이 저소음 자동 급식기",
-      "keyword": "강아지 자동급식기",
-      "firstSeen": "2026-10-14",
-      "history": [
-        {
-          "date": "2026-10-14",
-          "rank": 8,
-          "price": 38700,
-          "review": 410,
-          "rating": 5.0
-        }
-      ],
-      "videoStatus": "미생성",
-      "postUrl": null,
-      "usedAt": null,
-      "lastSeen": "2026-10-14"
-    },
-    "93229393095": {
-      "id": "93229393095",
-      "name": "디클펫 반려동물 자동급식기 P01WNA 3.5L",
-      "keyword": "강아지 자동급식기",
-      "firstSeen": "2026-10-14",
-      "history": [
-        {
-          "date": "2026-10-14",
-          "rank": 9,
-          "price": 51800,
-          "review": 209,
-          "rating": 4.5
-        }
-      ],
-      "videoStatus": "미생성",
-      "postUrl": null,
-      "usedAt": null,
-      "lastSeen": "2026-10-14"
-    },
-    "70398123116": {
-      "id": "70398123116",
-      "name": "행복한댕냥이 원터치 케어 브러쉬 블루",
-      "keyword": "강아지 털빗",
-      "firstSeen": "2026-10-14",
-      "history": [
-        {
-          "date": "2026-10-14",
-          "rank": 1,
-          "price": 8740,
-          "review": 13040,
-          "rating": 4.5
-        }
-      ],
-      "videoStatus": "미생성",
-      "postUrl": null,
-      "usedAt": null,
-      "lastSeen": "2026-10-14"
-    },
-    "91295669441": {
-      "id": "91295669441",
-      "name": "붐붐포 이지 클린 그루밍 눈꼽빗",
-      "keyword": "강아지 털빗",
-      "firstSeen": "2026-10-14",
-      "history": [
-        {
-          "date": "2026-10-14",
-          "rank": 2,
-          "price": 6200,
-          "review": 1078,
-          "rating": 5.0
-        }
-      ],
-      "videoStatus": "미생성",
-      "postUrl": null,
-      "usedAt": null,
-      "lastSeen": "2026-10-14"
-    },
-    "88047550377": {
-      "id": "88047550377",
-      "name": "디오벨르 원터치 털엉킴방지 빗",
-      "keyword": "강아지 털빗",
-      "firstSeen": "2026-10-14",
-      "history": [
-        {
-          "date": "2026-10-14",
-          "rank": 3,
-          "price": 3900,
-          "review": 190,
-          "rating": 4.5
-        }
-      ],
-      "videoStatus": "미생성",
-      "postUrl": null,
-      "usedAt": null,
-      "lastSeen": "2026-10-14"
-    },
-    "95231624704": {
-      "id": "95231624704",
-      "name": "코멧 펫 100% 고무헤드 슬리커 브러쉬",
-      "keyword": "강아지 털빗",
-      "firstSeen": "2026-10-14",
-      "history": [
-        {
-          "date": "2026-10-14",
-          "rank": 4,
-          "price": 6730,
-          "review": 3356,
-          "rating": 4.5
-        }
-      ],
-      "videoStatus": "미생성",
-      "postUrl": null,
-      "usedAt": null,
-      "lastSeen": "2026-10-14"
-    },
-    "96066488094": {
-      "id": "96066488094",
-      "name": "독스랩 털갈이 빗 디디 브러쉬 S",
-      "keyword": "강아지 털빗",
-      "firstSeen": "2026-10-14",
-      "history": [
-        {
-          "date": "2026-10-14",
-          "rank": 5,
-          "price": 20900,
-          "review": 2565,
-          "rating": 4.5
-        }
-      ],
-      "videoStatus": "미생성",
-      "postUrl": null,
-      "usedAt": null,
-      "lastSeen": "2026-10-14"
-    },
-    "79835363146": {
-      "id": "79835363146",
-      "name": "리스펫 올인원 더블 브러쉬",
-      "keyword": "강아지 털빗",
-      "firstSeen": "2026-10-14",
-      "history": [
-        {
-          "date": "2026-10-14",
-          "rank": 6,
-          "price": 800,
-          "review": 1669,
-          "rating": 5.0
-        }
-      ],
-      "videoStatus": "미생성",
-      "postUrl": null,
-      "usedAt": null,
-      "lastSeen": "2026-10-14"
-    },
-    "3199043310": {
-      "id": "3199043310",
-      "name": "자극없는 원터치 브러쉬 눈꼽 빗 세트",
-      "keyword": "강아지 털빗",
-      "firstSeen": "2026-10-14",
-      "history": [
-        {
-          "date": "2026-10-14",
-          "rank": 7,
-          "price": 6400,
-          "review": 282,
-          "rating": 4.5
-        }
-      ],
-      "videoStatus": "미생성",
-      "postUrl": null,
-      "usedAt": null,
-      "lastSeen": "2026-10-14"
-    },
-    "94966295879": {
-      "id": "94966295879",
-      "name": "행복한댕냥이 원터치 케어 브러쉬 핑크",
-      "keyword": "강아지 털빗",
-      "firstSeen": "2026-10-14",
-      "history": [
-        {
-          "date": "2026-10-14",
-          "rank": 8,
-          "price": 9900,
-          "review": 13040,
-          "rating": 4.5
-        }
-      ],
-      "videoStatus": "미생성",
-      "postUrl": null,
-      "usedAt": null,
-      "lastSeen": "2026-10-14"
-    },
-    "95492032998": {
-      "id": "95492032998",
-      "name": "바비온 듀얼 콤 브러쉬 086R",
-      "keyword": "강아지 털빗",
-      "firstSeen": "2026-10-14",
-      "history": [
-        {
-          "date": "2026-10-14",
-          "rank": 9,
-          "price": 7700,
-          "review": 4732,
-          "rating": 4.5
-        }
-      ],
-      "videoStatus": "미생성",
-      "postUrl": null,
-      "usedAt": null,
-      "lastSeen": "2026-10-14"
-    },
-    "74390761859": {
-      "id": "74390761859",
-      "name": "코멧 사선컷팅 테이프 클리너 3단 핸들+거치대+리필4",
-      "keyword": "강아지 털제거기",
-      "firstSeen": "2026-10-14",
-      "history": [
-        {
-          "date": "2026-10-14",
-          "rank": 1,
-          "price": 11890,
-          "review": 31898,
-          "rating": 5.0
-        }
-      ],
-      "videoStatus": "미생성",
-      "postUrl": null,
-      "usedAt": null,
-      "lastSeen": "2026-10-14"
-    },
-    "71096022941": {
-      "id": "71096022941",
-      "name": "코멧 사선컷팅 테이프 클리너 핸들+거치대+리필7",
-      "keyword": "강아지 털제거기",
-      "firstSeen": "2026-10-14",
-      "history": [
-        {
-          "date": "2026-10-14",
-          "rank": 2,
-          "price": 10470,
-          "review": 21910,
-          "rating": 5.0
-        }
-      ],
-      "videoStatus": "미생성",
-      "postUrl": null,
-      "usedAt": null,
-      "lastSeen": "2026-10-14"
-    },
-    "85924809204": {
-      "id": "85924809204",
-      "name": "코멧 사선컷팅 테이프 클리너 3단+리필7",
-      "keyword": "강아지 털제거기",
-      "firstSeen": "2026-10-14",
-      "history": [
-        {
-          "date": "2026-10-14",
-          "rank": 3,
-          "price": 11990,
-          "review": 5232,
-          "rating": 5.0
-        }
-      ],
-      "videoStatus": "미생성",
-      "postUrl": null,
-      "usedAt": null,
-      "lastSeen": "2026-10-14"
-    },
-    "84765881746": {
-      "id": "84765881746",
-      "name": "롤클린 사선컷팅 테이프 클리너 핸들+리필5",
-      "keyword": "강아지 털제거기",
-      "firstSeen": "2026-10-14",
-      "history": [
-        {
-          "date": "2026-10-14",
-          "rank": 4,
-          "price": 7900,
-          "review": 402,
-          "rating": 4.5
-        }
-      ],
-      "videoStatus": "미생성",
-      "postUrl": null,
-      "usedAt": null,
-      "lastSeen": "2026-10-14"
-    },
-    "95937024229": {
-      "id": "95937024229",
-      "name": "네이쳐리빙 클린비 사선컷팅 테이프 클리너 세트",
-      "keyword": "강아지 털제거기",
-      "firstSeen": "2026-10-14",
-      "history": [
-        {
-          "date": "2026-10-14",
-          "rank": 5,
-          "price": 6900,
-          "review": 1970,
-          "rating": 4.5
-        }
-      ],
-      "videoStatus": "미생성",
-      "postUrl": null,
-      "usedAt": null,
-      "lastSeen": "2026-10-14"
-    },
-    "87474386307": {
-      "id": "87474386307",
-      "name": "탐사 강아지 물통 화이트",
-      "keyword": "강아지 휴대용 물통",
-      "firstSeen": "2026-10-14",
-      "history": [
-        {
-          "date": "2026-10-14",
-          "rank": 1,
-          "price": 4860,
-          "review": 2284,
-          "rating": 4.5
-        }
-      ],
-      "videoStatus": "미생성",
-      "postUrl": null,
-      "usedAt": null,
-      "lastSeen": "2026-10-14"
-    },
-    "87474386311": {
-      "id": "87474386311",
-      "name": "탐사 강아지 물통 핑크",
-      "keyword": "강아지 휴대용 물통",
-      "firstSeen": "2026-10-14",
-      "history": [
-        {
-          "date": "2026-10-14",
-          "rank": 2,
-          "price": 4210,
-          "review": 2284,
-          "rating": 4.5
-        }
-      ],
-      "videoStatus": "미생성",
-      "postUrl": null,
-      "usedAt": null,
-      "lastSeen": "2026-10-14"
-    },
-    "90204316259": {
-      "id": "90204316259",
-      "name": "미스터추추 2in1 멀티 클라우드 휴대용 물병 2개",
-      "keyword": "강아지 휴대용 물통",
-      "firstSeen": "2026-10-14",
-      "history": [
-        {
-          "date": "2026-10-14",
-          "rank": 3,
-          "price": 5980,
-          "review": 1192,
-          "rating": 4.5
-        }
-      ],
-      "videoStatus": "미생성",
-      "postUrl": null,
-      "usedAt": null,
-      "lastSeen": "2026-10-14"
-    },
-    "82211764974": {
-      "id": "82211764974",
-      "name": "딩동펫 2in1 휴대용 버섯 물병",
-      "keyword": "강아지 휴대용 물통",
-      "firstSeen": "2026-10-14",
-      "history": [
-        {
-          "date": "2026-10-14",
-          "rank": 4,
-          "price": 9200,
-          "review": 432,
-          "rating": 4.5
-        }
-      ],
-      "videoStatus": "미생성",
-      "postUrl": null,
-      "usedAt": null,
-      "lastSeen": "2026-10-14"
-    },
-    "95255324760": {
-      "id": "95255324760",
-      "name": "리카리카 휴대용 원터치 산책 물통",
-      "keyword": "강아지 휴대용 물통",
-      "firstSeen": "2026-10-14",
-      "history": [
-        {
-          "date": "2026-10-14",
-          "rank": 5,
-          "price": 11040,
-          "review": 216,
-          "rating": 5.0
-        }
-      ],
-      "videoStatus": "미생성",
-      "postUrl": null,
-      "usedAt": null,
-      "lastSeen": "2026-10-14"
-    },
-    "94984633918": {
-      "id": "94984633918",
-      "name": "딩동펫 2in1 클라우드 휴대용 물병 옐로우",
-      "keyword": "강아지 휴대용 물통",
-      "firstSeen": "2026-10-14",
-      "history": [
-        {
-          "date": "2026-10-14",
-          "rank": 6,
-          "price": 6600,
-          "review": 1738,
-          "rating": 4.5
-        }
-      ],
-      "videoStatus": "미생성",
-      "postUrl": null,
-      "usedAt": null,
-      "lastSeen": "2026-10-14"
-    },
-    "3670421205": {
-      "id": "3670421205",
-      "name": "딩동펫 휴대용 버튼식 물병 + 풉백",
-      "keyword": "강아지 휴대용 물통",
-      "firstSeen": "2026-10-14",
-      "history": [
-        {
-          "date": "2026-10-14",
-          "rank": 7,
-          "price": 5700,
-          "review": 9498,
-          "rating": 4.5
-        }
-      ],
-      "videoStatus": "미생성",
-      "postUrl": null,
-      "usedAt": null,
-      "lastSeen": "2026-10-14"
-    },
-    "92787165138": {
-      "id": "92787165138",
-      "name": "ZOZOFO 2in1 물병+급식기",
-      "keyword": "강아지 휴대용 물통",
-      "firstSeen": "2026-10-14",
-      "history": [
-        {
-          "date": "2026-10-14",
-          "rank": 8,
-          "price": 11800,
-          "review": 203,
-          "rating": 5.0
-        }
-      ],
-      "videoStatus": "미생성",
-      "postUrl": null,
-      "usedAt": null,
-      "lastSeen": "2026-10-14"
-    },
-    "76515998420": {
-      "id": "76515998420",
-      "name": "레드미넛 접이식 휴대용 물병 420ml",
-      "keyword": "강아지 휴대용 물통",
-      "firstSeen": "2026-10-14",
-      "history": [
-        {
-          "date": "2026-10-14",
-          "rank": 9,
-          "price": 9900,
-          "review": 1038,
-          "rating": 4.5
-        }
-      ],
-      "videoStatus": "미생성",
-      "postUrl": null,
-      "usedAt": null,
-      "lastSeen": "2026-10-14"
-    },
-    "90407737231": {
-      "id": "90407737231",
-      "name": "레토 강아지 플라워 당근밭 담요 매트 노즈워크 장난감",
-      "keyword": "노즈워크 장난감",
-      "firstSeen": "2026-10-14",
-      "lastSeen": "2026-10-15",
-      "history": [
-        {
-          "date": "2026-10-14",
-          "rank": 1,
-          "price": 3000,
-          "review": 322,
-          "rating": 4.5
-        },
-        {
-          "date": "2026-10-15",
-          "rank": 2,
-          "price": 15800,
-          "review": 2182,
-          "rating": 4.5
-        }
-      ],
-      "videoStatus": "게시",
-      "usedAt": "2026-10-15",
-      "postedAt": "2026-10-15",
-      "postUrl": "https://youtube.com/shorts/onq2KdWTlfY",
-      "deepLink": "https://link.coupang.com/a/hRhaY6b8Me",
-      "postedPrice": 15800,
-      "channel": "YouTube(공개) + Instagram Reels(공개)",
-      "coupangIds": {
-        "productId": "8178553042",
-        "itemId": "23377660868",
-        "vendorItemId": "90407737231"
-      },
-      "hubUrl": "https://youtu.be/QiKZZvvCnHI",
-      "revision": "v2 (배지 상품명 · 캐릭터 상향 · AI배지 제거 · 선명도 개선)",
-      "deepLinkInstagram": "https://link.coupang.com/a/hRyx3vuPGm",
-      "postUrlInstagram": "https://www.instagram.com/shin.hotae/reel/DegYuoAuiuG/"
-    },
-    "95777368866": {
-      "id": "95777368866",
-      "name": "레토 강아지 플라워 당근밭 담요 매트",
-      "keyword": "노즈워크 장난감",
-      "firstSeen": "2026-10-14",
-      "history": [
-        {
-          "date": "2026-10-14",
-          "rank": 2,
-          "price": 15800,
-          "review": 2178,
-          "rating": 4.5
-        }
-      ],
-      "videoStatus": "미생성",
-      "postUrl": null,
-      "usedAt": null,
-      "lastSeen": "2026-10-14"
-    },
-    "89850051466": {
-      "id": "89850051466",
-      "name": "디오벨러 강아지 당근뽑기 노즈워크",
-      "keyword": "노즈워크 장난감",
-      "firstSeen": "2026-10-14",
-      "history": [
-        {
-          "date": "2026-10-14",
-          "rank": 3,
-          "price": 9990,
-          "review": 182,
-          "rating": 4.0
-        }
-      ],
-      "videoStatus": "미생성",
-      "postUrl": null,
-      "usedAt": null,
-      "lastSeen": "2026-10-14"
-    },
-    "90842129381": {
-      "id": "90842129381",
-      "name": "코코판다 오리팡 러버덕 노즈워크 간식 장난감",
-      "keyword": "노즈워크 장난감",
-      "firstSeen": "2026-10-14",
-      "history": [
-        {
-          "date": "2026-10-14",
-          "rank": 4,
-          "price": 4600,
-          "review": 698,
-          "rating": 4.5
-        }
-      ],
-      "videoStatus": "미생성",
-      "postUrl": null,
-      "usedAt": null,
-      "lastSeen": "2026-10-14"
-    },
-    "3724976215": {
-      "id": "3724976215",
-      "name": "콩 클래식 애견용 장난감",
-      "keyword": "노즈워크 장난감",
-      "firstSeen": "2026-10-14",
-      "history": [
-        {
-          "date": "2026-10-14",
-          "rank": 5,
-          "price": 8000,
-          "review": 1544,
-          "rating": 4.5
-        }
-      ],
-      "videoStatus": "미생성",
-      "postUrl": null,
-      "usedAt": null,
-      "lastSeen": "2026-10-14"
-    },
-    "95143449209": {
-      "id": "95143449209",
-      "name": "딩동펫 반려견 공룡알 간식볼",
-      "keyword": "노즈워크 장난감",
-      "firstSeen": "2026-10-14",
-      "history": [
-        {
-          "date": "2026-10-14",
-          "rank": 6,
-          "price": 7300,
-          "review": 9127,
-          "rating": 4.5
-        }
-      ],
-      "videoStatus": "미생성",
-      "postUrl": null,
-      "usedAt": null,
-      "lastSeen": "2026-10-14"
-    },
-    "74364924056": {
-      "id": "74364924056",
-      "name": "도담펫 강아지 원형 노즈워크 장난감",
-      "keyword": "노즈워크 장난감",
-      "firstSeen": "2026-10-14",
-      "history": [
-        {
-          "date": "2026-10-14",
-          "rank": 7,
-          "price": 6510,
-          "review": 2984,
-          "rating": 4.5
-        }
-      ],
-      "videoStatus": "미생성",
-      "postUrl": null,
-      "usedAt": null,
-      "lastSeen": "2026-10-14"
-    },
-    "95482634922": {
-      "id": "95482634922",
-      "name": "포우퀘스트 아보카도 노즈워크 오뚝이 [레벨3]",
-      "keyword": "노즈워크 장난감",
-      "firstSeen": "2026-10-14",
-      "history": [
-        {
-          "date": "2026-10-14",
-          "rank": 8,
-          "price": 26800,
-          "review": 1561,
-          "rating": 4.5
-        }
-      ],
-      "videoStatus": "미생성",
-      "postUrl": null,
-      "usedAt": null,
-      "lastSeen": "2026-10-14"
-    },
-    "91309171017": {
-      "id": "91309171017",
-      "name": "패리스독 강아지 과즙팡팡 간식놀이 토이",
-      "keyword": "노즈워크 장난감",
-      "firstSeen": "2026-10-14",
-      "history": [
-        {
-          "date": "2026-10-14",
-          "rank": 9,
-          "price": 5670,
-          "review": 766,
-          "rating": 5.0
-        }
-      ],
-      "videoStatus": "미생성",
-      "postUrl": null,
-      "usedAt": null,
-      "lastSeen": "2026-10-14"
+    {
+     "date": "2026-10-16",
+     "rank": 1,
+     "price": 53900,
+     "review": 1234,
+     "rating": 5,
+     "keyword": "강아지 자동급수기"
     }
+   ],
+   "coupangIds": {
+    "productId": "9148465245",
+    "itemId": "26844104264",
+    "vendorItemId": "95085716592"
+   },
+   "deepLinkYoutube": "https://link.coupang.com/a/hS7RJJj7jE",
+   "lastSeen": "2026-10-16"
   },
-  "updated": "2026-10-15"
+  "7156630079": {
+   "videoStatus": "게시",
+   "usedAt": "2026-10-15",
+   "postedAt": "2026-10-15",
+   "postUrl": "https://youtube.com/shorts/Eb7vIijBPXU",
+   "deepLink": "https://link.coupang.com/a/hRg8mTRdee",
+   "postedPrice": 41110,
+   "channel": "YouTube(공개) + Instagram Reels(공개)",
+   "coupangIds": {
+    "productId": "7156630079",
+    "itemId": "18002937916",
+    "vendorItemId": "92855728584"
+   },
+   "hubUrl": "https://youtu.be/QiKZZvvCnHI",
+   "revision": "v2 (배지 상품명 · 캐릭터 상향 · AI배지 제거 · 선명도 개선)",
+   "deepLinkInstagram": "https://link.coupang.com/a/hRyu8xTLCC",
+   "postUrlInstagram": "https://www.instagram.com/shin.hotae/reel/DegYaa7uwpi/",
+   "id": "7156630079",
+   "productId": "7156630079",
+   "vendorItemId": "92855728584",
+   "name": "디클펫 반려동물 자동급식기 AT-310, 4L, 화이트 + 불투명, 1개",
+   "keyword": "강아지 자동급식기",
+   "firstSeen": "2026-10-14",
+   "history": [
+    {
+     "date": "2026-10-14",
+     "rank": 1,
+     "price": 41210,
+     "review": 2531,
+     "rating": 5.0,
+     "keyword": "강아지 자동급식기"
+    },
+    {
+     "date": "2026-10-15",
+     "rank": 1,
+     "price": 41110,
+     "review": 2533,
+     "rating": 5.0
+    },
+    {
+     "date": "2026-10-16",
+     "rank": 1,
+     "price": 41110,
+     "review": 2538,
+     "rating": 5,
+     "keyword": "강아지 자동급식기"
+    }
+   ],
+   "deepLinkYoutube": "https://link.coupang.com/a/hS7NrZERPg",
+   "lastSeen": "2026-10-16"
+  },
+  "8178553042": {
+   "videoStatus": "게시",
+   "usedAt": "2026-10-15",
+   "postedAt": "2026-10-15",
+   "postUrl": "https://youtube.com/shorts/onq2KdWTlfY",
+   "deepLink": "https://link.coupang.com/a/hRhaY6b8Me",
+   "postedPrice": 15800,
+   "channel": "YouTube(공개) + Instagram Reels(공개)",
+   "coupangIds": {
+    "productId": "8178553042",
+    "itemId": "23377660868",
+    "vendorItemId": "90407737231"
+   },
+   "hubUrl": "https://youtu.be/QiKZZvvCnHI",
+   "revision": "v2 (배지 상품명 · 캐릭터 상향 · AI배지 제거 · 선명도 개선)",
+   "deepLinkInstagram": "https://link.coupang.com/a/hRyx3vuPGm",
+   "postUrlInstagram": "https://www.instagram.com/shin.hotae/reel/DegYuoAuiuG/",
+   "id": "8178553042",
+   "productId": "8178553042",
+   "vendorItemId": "90407737231",
+   "name": "레토 강아지 플라워 당근밭 담요 매트 노즈위크 장난감, 당근, 1개",
+   "keyword": "노즈워크 장난감",
+   "firstSeen": "2026-10-14",
+   "history": [
+    {
+     "date": "2026-10-14",
+     "rank": 2,
+     "price": 15800,
+     "review": 2178,
+     "rating": 4.5,
+     "keyword": "노즈워크 장난감"
+    },
+    {
+     "date": "2026-10-15",
+     "rank": 2,
+     "price": 15800,
+     "review": 2182,
+     "rating": 4.5
+    },
+    {
+     "date": "2026-10-16",
+     "rank": 2,
+     "price": 15800,
+     "review": 2184,
+     "rating": 4.5,
+     "keyword": "노즈워크 장난감"
+    }
+   ],
+   "deepLinkYoutube": "https://link.coupang.com/a/hS7QSyoF5M",
+   "lastSeen": "2026-10-16"
+  },
+  "n:Bornoon자동급수기2L필터2p": {
+   "id": "n:Bornoon자동급수기2L필터2p",
+   "productId": null,
+   "name": "Bornoon 자동 급수기 2L + 필터 2p",
+   "keyword": "강아지 자동급수기",
+   "firstSeen": "2026-10-14",
+   "history": [
+    {
+     "date": "2026-10-14",
+     "rank": 2,
+     "price": 19870,
+     "review": 1029,
+     "rating": 4.5,
+     "keyword": "강아지 자동급수기"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-14",
+   "vendorItemId": "91009951333"
+  },
+  "n:조이쥬드자동급수기15L": {
+   "id": "n:조이쥬드자동급수기15L",
+   "productId": null,
+   "name": "조이쥬드 자동 급수기 1.5L",
+   "keyword": "강아지 자동급수기",
+   "firstSeen": "2026-10-14",
+   "history": [
+    {
+     "date": "2026-10-14",
+     "rank": 3,
+     "price": 11900,
+     "review": 321,
+     "rating": 4.5,
+     "keyword": "강아지 자동급수기"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-14",
+   "vendorItemId": "91762829831"
+  },
+  "n:페블펫3중여과워터슬라이드자동급수기IP": {
+   "id": "n:페블펫3중여과워터슬라이드자동급수기IP",
+   "productId": null,
+   "name": "페블펫 3중여과 워터슬라이드 자동급수기 IPW200",
+   "keyword": "강아지 자동급수기",
+   "firstSeen": "2026-10-14",
+   "history": [
+    {
+     "date": "2026-10-14",
+     "rank": 4,
+     "price": 19900,
+     "review": 1288,
+     "rating": 4.5,
+     "keyword": "강아지 자동급수기"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-14",
+   "vendorItemId": "90924915879"
+  },
+  "n:파우시자동급수기32L스테인리스": {
+   "id": "n:파우시자동급수기32L스테인리스",
+   "productId": null,
+   "name": "파우시 자동급수기 3.2L 스테인리스",
+   "keyword": "강아지 자동급수기",
+   "firstSeen": "2026-10-14",
+   "history": [
+    {
+     "date": "2026-10-14",
+     "rank": 5,
+     "price": 34000,
+     "review": 501,
+     "rating": 4.5,
+     "keyword": "강아지 자동급수기"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-14",
+   "vendorItemId": "88742620717"
+  },
+  "n:마카롱플라워순환식자동급수기15LUSB": {
+   "id": "n:마카롱플라워순환식자동급수기15LUSB",
+   "productId": null,
+   "name": "마카롱 플라워 순환식 자동급수기 1.5L USB",
+   "keyword": "강아지 자동급수기",
+   "firstSeen": "2026-10-14",
+   "history": [
+    {
+     "date": "2026-10-14",
+     "rank": 6,
+     "price": 12500,
+     "review": 52,
+     "rating": 5.0,
+     "keyword": "강아지 자동급수기"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-14",
+   "vendorItemId": "93408208456"
+  },
+  "n:펫그래비티무선무필터정수기3L": {
+   "id": "n:펫그래비티무선무필터정수기3L",
+   "productId": null,
+   "name": "펫그래비티 무선 무필터 정수기 3L",
+   "keyword": "강아지 자동급수기",
+   "firstSeen": "2026-10-14",
+   "history": [
+    {
+     "date": "2026-10-14",
+     "rank": 7,
+     "price": 48900,
+     "review": 404,
+     "rating": 5.0,
+     "keyword": "강아지 자동급수기"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-14",
+   "vendorItemId": "93957985707"
+  },
+  "n:파우시실린더도자기자동급수기": {
+   "id": "n:파우시실린더도자기자동급수기",
+   "productId": null,
+   "name": "파우시 실린더 도자기 자동급수기",
+   "keyword": "강아지 자동급수기",
+   "firstSeen": "2026-10-14",
+   "history": [
+    {
+     "date": "2026-10-14",
+     "rank": 8,
+     "price": 34840,
+     "review": 181,
+     "rating": 4.5,
+     "keyword": "강아지 자동급수기"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-14",
+   "vendorItemId": "90995011008"
+  },
+  "n:파우시무선자동급수기스테인리스": {
+   "id": "n:파우시무선자동급수기스테인리스",
+   "productId": null,
+   "name": "파우시 무선 자동급수기 스테인리스",
+   "keyword": "강아지 자동급수기",
+   "firstSeen": "2026-10-14",
+   "history": [
+    {
+     "date": "2026-10-14",
+     "rank": 9,
+     "price": 50000,
+     "review": 177,
+     "rating": 5.0,
+     "keyword": "강아지 자동급수기"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-14",
+   "vendorItemId": "95983822344"
+  },
+  "7156115759": {
+   "id": "7156115759",
+   "productId": "7156115759",
+   "name": "디클펫 반려동물 자동급식기 AT-210, 4L, 화이트, 1개",
+   "keyword": "강아지 자동급식기",
+   "firstSeen": "2026-10-14",
+   "history": [
+    {
+     "date": "2026-10-14",
+     "rank": 2,
+     "price": 44810,
+     "review": 1447,
+     "rating": 5.0,
+     "keyword": "강아지 자동급식기"
+    },
+    {
+     "date": "2026-10-16",
+     "rank": 2,
+     "price": 44710,
+     "review": 1454,
+     "rating": 5,
+     "keyword": "강아지 자동급식기"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "93116627330"
+  },
+  "8142883200": {
+   "id": "8142883200",
+   "productId": "8142883200",
+   "name": "파우시 강아지 고양이 자동급식기 3L, 화이트, 1개",
+   "keyword": "강아지 자동급식기",
+   "firstSeen": "2026-10-14",
+   "history": [
+    {
+     "date": "2026-10-14",
+     "rank": 3,
+     "price": 34670,
+     "review": 1178,
+     "rating": 4.5,
+     "keyword": "강아지 자동급식기"
+    },
+    {
+     "date": "2026-10-16",
+     "rank": 3,
+     "price": 34670,
+     "review": 1179,
+     "rating": 4.5,
+     "keyword": "강아지 자동급식기"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "90916690809"
+  },
+  "5243733818": {
+   "id": "5243733818",
+   "productId": "5243733818",
+   "name": "바램펫 밀리 스마트 반려동물 자동 급식기, 2.6kg, 1개",
+   "keyword": "강아지 자동급식기",
+   "firstSeen": "2026-10-14",
+   "history": [
+    {
+     "date": "2026-10-14",
+     "rank": 4,
+     "price": 129000,
+     "review": 1679,
+     "rating": 5.0,
+     "keyword": "강아지 자동급식기"
+    },
+    {
+     "date": "2026-10-16",
+     "rank": 4,
+     "price": 129000,
+     "review": 1679,
+     "rating": 5,
+     "keyword": "강아지 자동급식기"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "74705286857"
+  },
+  "n:팻위즈스마트홈캠반려동물자동급식기4L": {
+   "id": "n:팻위즈스마트홈캠반려동물자동급식기4L",
+   "productId": null,
+   "name": "팻위즈 스마트홈캠 반려동물 자동 급식기 4L",
+   "keyword": "강아지 자동급식기",
+   "firstSeen": "2026-10-14",
+   "history": [
+    {
+     "date": "2026-10-14",
+     "rank": 5,
+     "price": 59900,
+     "review": 492,
+     "rating": 5.0,
+     "keyword": "강아지 자동급식기"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-14",
+   "vendorItemId": "74705286857"
+  },
+  "9305978269": {
+   "id": "9305978269",
+   "productId": "9305978269",
+   "name": "디토펫 반려동물 자동급식기 4L, 1개, 화이트",
+   "keyword": "강아지 자동급식기",
+   "firstSeen": "2026-10-14",
+   "history": [
+    {
+     "date": "2026-10-14",
+     "rank": 6,
+     "price": 29900,
+     "review": 56,
+     "rating": 5.0,
+     "keyword": "강아지 자동급식기"
+    },
+    {
+     "date": "2026-10-16",
+     "rank": 7,
+     "price": 29900,
+     "review": 59,
+     "rating": 5,
+     "keyword": "강아지 자동급식기"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "94659428503"
+  },
+  "n:HULULU대용량타이머자동급식기": {
+   "id": "n:HULULU대용량타이머자동급식기",
+   "productId": null,
+   "name": "HULULU 대용량 타이머 자동 급식기",
+   "keyword": "강아지 자동급식기",
+   "firstSeen": "2026-10-14",
+   "history": [
+    {
+     "date": "2026-10-14",
+     "rank": 7,
+     "price": 32800,
+     "review": 273,
+     "rating": 4.5,
+     "keyword": "강아지 자동급식기"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-14",
+   "vendorItemId": "94133972887"
+  },
+  "n:칼노대용량와이파이저소음자동급식기": {
+   "id": "n:칼노대용량와이파이저소음자동급식기",
+   "productId": null,
+   "name": "칼노 대용량 와이파이 저소음 자동 급식기",
+   "keyword": "강아지 자동급식기",
+   "firstSeen": "2026-10-14",
+   "history": [
+    {
+     "date": "2026-10-14",
+     "rank": 8,
+     "price": 38700,
+     "review": 410,
+     "rating": 5.0,
+     "keyword": "강아지 자동급식기"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-14",
+   "vendorItemId": "94659428503"
+  },
+  "8969592916": {
+   "id": "8969592916",
+   "productId": "8969592916",
+   "name": "디클펫 반려동물 자동급식기 P01WNA, 3.5L, 화이트, 1개",
+   "keyword": "강아지 자동급식기",
+   "firstSeen": "2026-10-14",
+   "history": [
+    {
+     "date": "2026-10-14",
+     "rank": 9,
+     "price": 51800,
+     "review": 209,
+     "rating": 4.5,
+     "keyword": "강아지 자동급식기"
+    },
+    {
+     "date": "2026-10-16",
+     "rank": 8,
+     "price": 51700,
+     "review": 209,
+     "rating": 4.5,
+     "keyword": "강아지 자동급식기"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "93229393095"
+  },
+  "6247467825": {
+   "id": "6247467825",
+   "productId": "6247467825",
+   "name": "행복한댕냥이 원터치 케어 브러쉬, 블루, 1개",
+   "keyword": "강아지 털빗",
+   "firstSeen": "2026-10-14",
+   "history": [
+    {
+     "date": "2026-10-14",
+     "rank": 1,
+     "price": 8740,
+     "review": 13040,
+     "rating": 4.5,
+     "keyword": "강아지 털빗"
+    },
+    {
+     "date": "2026-10-16",
+     "rank": 1,
+     "price": 8740,
+     "review": 13061,
+     "rating": 4.5,
+     "keyword": "강아지 털빗"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "70398123116"
+  },
+  "n:붐붐포이지클린그루밍눈꼽빗": {
+   "id": "n:붐붐포이지클린그루밍눈꼽빗",
+   "productId": null,
+   "name": "붐붐포 이지 클린 그루밍 눈꼽빗",
+   "keyword": "강아지 털빗",
+   "firstSeen": "2026-10-14",
+   "history": [
+    {
+     "date": "2026-10-14",
+     "rank": 2,
+     "price": 6200,
+     "review": 1078,
+     "rating": 5.0,
+     "keyword": "강아지 털빗"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-14",
+   "vendorItemId": "91295669441"
+  },
+  "n:디오벨르원터치털엉킴방지빗": {
+   "id": "n:디오벨르원터치털엉킴방지빗",
+   "productId": null,
+   "name": "디오벨르 원터치 털엉킴방지 빗",
+   "keyword": "강아지 털빗",
+   "firstSeen": "2026-10-14",
+   "history": [
+    {
+     "date": "2026-10-14",
+     "rank": 3,
+     "price": 3900,
+     "review": 190,
+     "rating": 4.5,
+     "keyword": "강아지 털빗"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-14",
+   "vendorItemId": "88047550377"
+  },
+  "n:코멧펫100고무헤드슬리커브러쉬": {
+   "id": "n:코멧펫100고무헤드슬리커브러쉬",
+   "productId": null,
+   "name": "코멧 펫 100% 고무헤드 슬리커 브러쉬",
+   "keyword": "강아지 털빗",
+   "firstSeen": "2026-10-14",
+   "history": [
+    {
+     "date": "2026-10-14",
+     "rank": 4,
+     "price": 6730,
+     "review": 3356,
+     "rating": 4.5,
+     "keyword": "강아지 털빗"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-14",
+   "vendorItemId": "95231624704"
+  },
+  "n:독스랩털갈이빗디디브러쉬S": {
+   "id": "n:독스랩털갈이빗디디브러쉬S",
+   "productId": null,
+   "name": "독스랩 털갈이 빗 디디 브러쉬 S",
+   "keyword": "강아지 털빗",
+   "firstSeen": "2026-10-14",
+   "history": [
+    {
+     "date": "2026-10-14",
+     "rank": 5,
+     "price": 20900,
+     "review": 2565,
+     "rating": 4.5,
+     "keyword": "강아지 털빗"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-14",
+   "vendorItemId": "96066488094"
+  },
+  "n:리스펫올인원더블브러쉬": {
+   "id": "n:리스펫올인원더블브러쉬",
+   "productId": null,
+   "name": "리스펫 올인원 더블 브러쉬",
+   "keyword": "강아지 털빗",
+   "firstSeen": "2026-10-14",
+   "history": [
+    {
+     "date": "2026-10-14",
+     "rank": 6,
+     "price": 800,
+     "review": 1669,
+     "rating": 5.0,
+     "keyword": "강아지 털빗"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-14",
+   "vendorItemId": "79835363146"
+  },
+  "n:자극없는원터치브러쉬눈꼽빗세트": {
+   "id": "n:자극없는원터치브러쉬눈꼽빗세트",
+   "productId": null,
+   "name": "자극없는 원터치 브러쉬 눈꼽 빗 세트",
+   "keyword": "강아지 털빗",
+   "firstSeen": "2026-10-14",
+   "history": [
+    {
+     "date": "2026-10-14",
+     "rank": 7,
+     "price": 6400,
+     "review": 282,
+     "rating": 4.5,
+     "keyword": "강아지 털빗"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-14",
+   "vendorItemId": "3199043310"
+  },
+  "n:행복한댕냥이원터치케어브러쉬핑크": {
+   "id": "n:행복한댕냥이원터치케어브러쉬핑크",
+   "productId": null,
+   "name": "행복한댕냥이 원터치 케어 브러쉬 핑크",
+   "keyword": "강아지 털빗",
+   "firstSeen": "2026-10-14",
+   "history": [
+    {
+     "date": "2026-10-14",
+     "rank": 8,
+     "price": 9900,
+     "review": 13040,
+     "rating": 4.5,
+     "keyword": "강아지 털빗"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-14",
+   "vendorItemId": "94966295879"
+  },
+  "n:바비온듀얼콤브러쉬086R": {
+   "id": "n:바비온듀얼콤브러쉬086R",
+   "productId": null,
+   "name": "바비온 듀얼 콤 브러쉬 086R",
+   "keyword": "강아지 털빗",
+   "firstSeen": "2026-10-14",
+   "history": [
+    {
+     "date": "2026-10-14",
+     "rank": 9,
+     "price": 7700,
+     "review": 4732,
+     "rating": 4.5,
+     "keyword": "강아지 털빗"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-14",
+   "vendorItemId": "95492032998"
+  },
+  "5158825957": {
+   "id": "5158825957",
+   "productId": "5158825957",
+   "name": "코멧 사선컷팅 테이프 클리너 3단 핸들 + 거치대 + 리필 4개, 1개",
+   "keyword": "강아지 털제거기",
+   "firstSeen": "2026-10-14",
+   "history": [
+    {
+     "date": "2026-10-14",
+     "rank": 1,
+     "price": 11890,
+     "review": 31898,
+     "rating": 5.0,
+     "keyword": "강아지 털제거기"
+    },
+    {
+     "date": "2026-10-16",
+     "rank": 1,
+     "price": 11890,
+     "review": 31931,
+     "rating": 5,
+     "keyword": "강아지 털제거기"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "74390761859"
+  },
+  "1826916442": {
+   "id": "1826916442",
+   "productId": "1826916442",
+   "name": "코멧 사선컷팅 테이프 클리너 핸들 + 거치대 + 리필 7개 (16cm x 12m), 1개",
+   "keyword": "강아지 털제거기",
+   "firstSeen": "2026-10-14",
+   "history": [
+    {
+     "date": "2026-10-14",
+     "rank": 2,
+     "price": 10470,
+     "review": 21910,
+     "rating": 5.0,
+     "keyword": "강아지 털제거기"
+    },
+    {
+     "date": "2026-10-16",
+     "rank": 2,
+     "price": 10470,
+     "review": 21922,
+     "rating": 5,
+     "keyword": "강아지 털제거기"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "71096022941"
+  },
+  "n:코멧사선컷팅테이프클리너3단리필7": {
+   "id": "n:코멧사선컷팅테이프클리너3단리필7",
+   "productId": null,
+   "name": "코멧 사선컷팅 테이프 클리너 3단+리필7",
+   "keyword": "강아지 털제거기",
+   "firstSeen": "2026-10-14",
+   "history": [
+    {
+     "date": "2026-10-14",
+     "rank": 3,
+     "price": 11990,
+     "review": 5232,
+     "rating": 5.0,
+     "keyword": "강아지 털제거기"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-14",
+   "vendorItemId": "85924809204"
+  },
+  "9697891922": {
+   "id": "9697891922",
+   "productId": "9697891922",
+   "name": "롤클린 사선컷팅 테이프 클리너 핸들 + 리필5개, 1세트",
+   "keyword": "강아지 털제거기",
+   "firstSeen": "2026-10-14",
+   "history": [
+    {
+     "date": "2026-10-14",
+     "rank": 4,
+     "price": 7900,
+     "review": 402,
+     "rating": 4.5,
+     "keyword": "강아지 털제거기"
+    },
+    {
+     "date": "2026-10-16",
+     "rank": 4,
+     "price": 6900,
+     "review": 411,
+     "rating": 4.5,
+     "keyword": "강아지 털제거기"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "95937024229"
+  },
+  "n:네이쳐리빙클린비사선컷팅테이프클리너세트": {
+   "id": "n:네이쳐리빙클린비사선컷팅테이프클리너세트",
+   "productId": null,
+   "name": "네이쳐리빙 클린비 사선컷팅 테이프 클리너 세트",
+   "keyword": "강아지 털제거기",
+   "firstSeen": "2026-10-14",
+   "history": [
+    {
+     "date": "2026-10-14",
+     "rank": 5,
+     "price": 6900,
+     "review": 1970,
+     "rating": 4.5,
+     "keyword": "강아지 털제거기"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-14",
+   "vendorItemId": "95937024229"
+  },
+  "7657490941": {
+   "id": "7657490941",
+   "productId": "7657490941",
+   "name": "탐사 강아지 물통, 화이트, 1개",
+   "keyword": "강아지 휴대용 물통",
+   "firstSeen": "2026-10-14",
+   "history": [
+    {
+     "date": "2026-10-14",
+     "rank": 1,
+     "price": 4860,
+     "review": 2284,
+     "rating": 4.5,
+     "keyword": "강아지 휴대용 물통"
+    },
+    {
+     "date": "2026-10-16",
+     "rank": 1,
+     "price": 4860,
+     "review": 2292,
+     "rating": 4.5,
+     "keyword": "강아지 휴대용 물통"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "87474386307"
+  },
+  "n:탐사강아지물통핑크": {
+   "id": "n:탐사강아지물통핑크",
+   "productId": null,
+   "name": "탐사 강아지 물통 핑크",
+   "keyword": "강아지 휴대용 물통",
+   "firstSeen": "2026-10-14",
+   "history": [
+    {
+     "date": "2026-10-14",
+     "rank": 2,
+     "price": 4210,
+     "review": 2284,
+     "rating": 4.5,
+     "keyword": "강아지 휴대용 물통"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-14",
+   "vendorItemId": "87474386311"
+  },
+  "n:미스터추추2in1멀티클라우드휴대용물병": {
+   "id": "n:미스터추추2in1멀티클라우드휴대용물병",
+   "productId": null,
+   "name": "미스터추추 2in1 멀티 클라우드 휴대용 물병 2개",
+   "keyword": "강아지 휴대용 물통",
+   "firstSeen": "2026-10-14",
+   "history": [
+    {
+     "date": "2026-10-14",
+     "rank": 3,
+     "price": 5980,
+     "review": 1192,
+     "rating": 4.5,
+     "keyword": "강아지 휴대용 물통"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-14",
+   "vendorItemId": "90204316259"
+  },
+  "n:딩동펫2in1휴대용버섯물병": {
+   "id": "n:딩동펫2in1휴대용버섯물병",
+   "productId": null,
+   "name": "딩동펫 2in1 휴대용 버섯 물병",
+   "keyword": "강아지 휴대용 물통",
+   "firstSeen": "2026-10-14",
+   "history": [
+    {
+     "date": "2026-10-14",
+     "rank": 4,
+     "price": 9200,
+     "review": 432,
+     "rating": 4.5,
+     "keyword": "강아지 휴대용 물통"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-14",
+   "vendorItemId": "82211764974"
+  },
+  "n:리카리카휴대용원터치산책물통": {
+   "id": "n:리카리카휴대용원터치산책물통",
+   "productId": null,
+   "name": "리카리카 휴대용 원터치 산책 물통",
+   "keyword": "강아지 휴대용 물통",
+   "firstSeen": "2026-10-14",
+   "history": [
+    {
+     "date": "2026-10-14",
+     "rank": 5,
+     "price": 11040,
+     "review": 216,
+     "rating": 5.0,
+     "keyword": "강아지 휴대용 물통"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-14",
+   "vendorItemId": "95255324760"
+  },
+  "6610694743": {
+   "id": "6610694743",
+   "productId": "6610694743",
+   "name": "딩동펫 2in1 클라우드 휴대용 물병, 옐로우, 1개",
+   "keyword": "강아지 휴대용 물통",
+   "firstSeen": "2026-10-14",
+   "history": [
+    {
+     "date": "2026-10-14",
+     "rank": 6,
+     "price": 6600,
+     "review": 1738,
+     "rating": 4.5,
+     "keyword": "강아지 휴대용 물통"
+    },
+    {
+     "date": "2026-10-16",
+     "rank": 5,
+     "price": 6600,
+     "review": 1739,
+     "rating": 4.5,
+     "keyword": "강아지 휴대용 물통"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "82211764974"
+  },
+  "n:딩동펫휴대용버튼식물병풉백": {
+   "id": "n:딩동펫휴대용버튼식물병풉백",
+   "productId": null,
+   "name": "딩동펫 휴대용 버튼식 물병 + 풉백",
+   "keyword": "강아지 휴대용 물통",
+   "firstSeen": "2026-10-14",
+   "history": [
+    {
+     "date": "2026-10-14",
+     "rank": 7,
+     "price": 5700,
+     "review": 9498,
+     "rating": 4.5,
+     "keyword": "강아지 휴대용 물통"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-14",
+   "vendorItemId": "3670421205"
+  },
+  "n:ZOZOFO2in1물병급식기": {
+   "id": "n:ZOZOFO2in1물병급식기",
+   "productId": null,
+   "name": "ZOZOFO 2in1 물병+급식기",
+   "keyword": "강아지 휴대용 물통",
+   "firstSeen": "2026-10-14",
+   "history": [
+    {
+     "date": "2026-10-14",
+     "rank": 8,
+     "price": 11800,
+     "review": 203,
+     "rating": 5.0,
+     "keyword": "강아지 휴대용 물통"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-14",
+   "vendorItemId": "92787165138"
+  },
+  "n:레드미넛접이식휴대용물병420ml": {
+   "id": "n:레드미넛접이식휴대용물병420ml",
+   "productId": null,
+   "name": "레드미넛 접이식 휴대용 물병 420ml",
+   "keyword": "강아지 휴대용 물통",
+   "firstSeen": "2026-10-14",
+   "history": [
+    {
+     "date": "2026-10-14",
+     "rank": 9,
+     "price": 9900,
+     "review": 1038,
+     "rating": 4.5,
+     "keyword": "강아지 휴대용 물통"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-14",
+   "vendorItemId": "76515998420"
+  },
+  "9650319913": {
+   "id": "9650319913",
+   "productId": "9650319913",
+   "name": "리핀트 강아지 간식공 노즈워크 스낵볼 세트, 1세트, 옐로우+블루",
+   "keyword": "노즈워크 장난감",
+   "firstSeen": "2026-10-14",
+   "history": [
+    {
+     "date": "2026-10-14",
+     "rank": 1,
+     "price": 3000,
+     "review": 322,
+     "rating": 4.5,
+     "keyword": "노즈워크 장난감"
+    },
+    {
+     "date": "2026-10-16",
+     "rank": 1,
+     "price": 3000,
+     "review": 352,
+     "rating": 4.5,
+     "keyword": "노즈워크 장난감"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "95777368866"
+  },
+  "9562725164": {
+   "id": "9562725164",
+   "productId": "9562725164",
+   "name": "디오벨러 강아지 당근뽑기 노즈워크 장난감, 1개, 브라운",
+   "keyword": "노즈워크 장난감",
+   "firstSeen": "2026-10-14",
+   "history": [
+    {
+     "date": "2026-10-14",
+     "rank": 3,
+     "price": 9990,
+     "review": 182,
+     "rating": 4.0,
+     "keyword": "노즈워크 장난감"
+    },
+    {
+     "date": "2026-10-16",
+     "rank": 4,
+     "price": 9990,
+     "review": 184,
+     "rating": 4,
+     "keyword": "노즈워크 장난감"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "95482634922"
+  },
+  "n:코코판다오리팡러버덕노즈워크간식장난감": {
+   "id": "n:코코판다오리팡러버덕노즈워크간식장난감",
+   "productId": null,
+   "name": "코코판다 오리팡 러버덕 노즈워크 간식 장난감",
+   "keyword": "노즈워크 장난감",
+   "firstSeen": "2026-10-14",
+   "history": [
+    {
+     "date": "2026-10-14",
+     "rank": 4,
+     "price": 4600,
+     "review": 698,
+     "rating": 4.5,
+     "keyword": "노즈워크 장난감"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-14",
+   "vendorItemId": "90842129381"
+  },
+  "4561775328": {
+   "id": "4561775328",
+   "productId": "4561775328",
+   "name": "콩 클래식 애견용 장난감, 빨강, 1개",
+   "keyword": "노즈워크 장난감",
+   "firstSeen": "2026-10-14",
+   "history": [
+    {
+     "date": "2026-10-14",
+     "rank": 5,
+     "price": 8000,
+     "review": 1544,
+     "rating": 4.5,
+     "keyword": "노즈워크 장난감"
+    },
+    {
+     "date": "2026-10-16",
+     "rank": 5,
+     "price": 8000,
+     "review": 1547,
+     "rating": 4.5,
+     "keyword": "노즈워크 장난감"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "90842129381"
+  },
+  "95504742": {
+   "id": "95504742",
+   "productId": "95504742",
+   "name": "딩동펫 반려견 공룡알 간식볼, 그린, 1개",
+   "keyword": "노즈워크 장난감",
+   "firstSeen": "2026-10-14",
+   "history": [
+    {
+     "date": "2026-10-14",
+     "rank": 6,
+     "price": 7300,
+     "review": 9127,
+     "rating": 4.5,
+     "keyword": "노즈워크 장난감"
+    },
+    {
+     "date": "2026-10-16",
+     "rank": 6,
+     "price": 7080,
+     "review": 9127,
+     "rating": 4.5,
+     "keyword": "노즈워크 장난감"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "3724976215"
+  },
+  "4399641177": {
+   "id": "4399641177",
+   "productId": "4399641177",
+   "name": "도담펫 강아지 원형 노즈워크 장난감, 핑크, 1개",
+   "keyword": "노즈워크 장난감",
+   "firstSeen": "2026-10-14",
+   "history": [
+    {
+     "date": "2026-10-14",
+     "rank": 7,
+     "price": 6510,
+     "review": 2984,
+     "rating": 4.5,
+     "keyword": "노즈워크 장난감"
+    },
+    {
+     "date": "2026-10-16",
+     "rank": 7,
+     "price": 6510,
+     "review": 2985,
+     "rating": 4.5,
+     "keyword": "노즈워크 장난감"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "74364924056"
+  },
+  "n:포우퀘스트아보카도노즈워크오뚝이레벨3": {
+   "id": "n:포우퀘스트아보카도노즈워크오뚝이레벨3",
+   "productId": null,
+   "name": "포우퀘스트 아보카도 노즈워크 오뚝이 [레벨3]",
+   "keyword": "노즈워크 장난감",
+   "firstSeen": "2026-10-14",
+   "history": [
+    {
+     "date": "2026-10-14",
+     "rank": 8,
+     "price": 26800,
+     "review": 1561,
+     "rating": 4.5,
+     "keyword": "노즈워크 장난감"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-14",
+   "vendorItemId": "95482634922"
+  },
+  "8544717949": {
+   "id": "8544717949",
+   "productId": "8544717949",
+   "name": "패리스독 강아지 과즙팡팡 간식놀이 토이, 랜덤 발송, 1개",
+   "keyword": "노즈워크 장난감",
+   "firstSeen": "2026-10-14",
+   "history": [
+    {
+     "date": "2026-10-14",
+     "rank": 9,
+     "price": 5670,
+     "review": 766,
+     "rating": 5.0,
+     "keyword": "노즈워크 장난감"
+    },
+    {
+     "date": "2026-10-16",
+     "rank": 9,
+     "price": 5670,
+     "review": 767,
+     "rating": 5,
+     "keyword": "노즈워크 장난감"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "89850051466"
+  },
+  "7324769879": {
+   "id": "7324769879",
+   "productId": "7324769879",
+   "name": "코멧 사선컷팅 테이프 클리너 3단 핸들 + 거치대 + 리필 7개 (16cm x 12m), 1세트",
+   "keyword": "강아지 털제거기",
+   "firstSeen": "2026-10-16",
+   "history": [
+    {
+     "date": "2026-10-16",
+     "rank": 3,
+     "price": 11990,
+     "review": 5247,
+     "rating": 5,
+     "keyword": "강아지 털제거기"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "85924809204"
+  },
+  "1361130121": {
+   "id": "1361130121",
+   "productId": "1361130121",
+   "name": "홈앤미 초강력 사선컷팅 돌돌이 테이프 클리너 롱핸들+리필 4개+케이스, 1세트",
+   "keyword": "강아지 털제거기",
+   "firstSeen": "2026-10-16",
+   "history": [
+    {
+     "date": "2026-10-16",
+     "rank": 5,
+     "price": 11900,
+     "review": 17368,
+     "rating": 5,
+     "keyword": "강아지 털제거기"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "70387776610"
+  },
+  "7078157308": {
+   "id": "7078157308",
+   "productId": "7078157308",
+   "name": "네이쳐리빙 클린비 사선컷팅 테이프 클리너 핸디형 본품 + 리필 4개 + 거치대, 1세트",
+   "keyword": "강아지 털제거기",
+   "firstSeen": "2026-10-16",
+   "history": [
+    {
+     "date": "2026-10-16",
+     "rank": 6,
+     "price": 6900,
+     "review": 1976,
+     "rating": 4.5,
+     "keyword": "강아지 털제거기"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "84765881746"
+  },
+  "8987678740": {
+   "id": "8987678740",
+   "productId": "8987678740",
+   "name": "코멧 사선컷팅 일반형 테이프 클리너 핸들 + 거치대 + 리필 1개 (16cm x 12m), 1세트",
+   "keyword": "강아지 털제거기",
+   "firstSeen": "2026-10-16",
+   "history": [
+    {
+     "date": "2026-10-16",
+     "rank": 7,
+     "price": 3490,
+     "review": 1810,
+     "rating": 5,
+     "keyword": "강아지 털제거기"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "93300272656"
+  },
+  "8687681457": {
+   "id": "8687681457",
+   "productId": "8687681457",
+   "name": "코멧 사선컷팅 테이프 클리너 핸들 + 거치대 + 리필 10개 (16cm x 12m), 1개",
+   "keyword": "강아지 털제거기",
+   "firstSeen": "2026-10-16",
+   "history": [
+    {
+     "date": "2026-10-16",
+     "rank": 9,
+     "price": 10860,
+     "review": 34942,
+     "rating": 5,
+     "keyword": "강아지 털제거기"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "71096022964"
+  },
+  "9617464947": {
+   "id": "9617464947",
+   "productId": "9617464947",
+   "name": "바로클린 광폭 롱핸들 테이프클리너 24cm + 거치대 + 리필 5개, 1세트",
+   "keyword": "강아지 털제거기",
+   "firstSeen": "2026-10-16",
+   "history": [
+    {
+     "date": "2026-10-16",
+     "rank": 10,
+     "price": 14900,
+     "review": 446,
+     "rating": 4.5,
+     "keyword": "강아지 털제거기"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "95658037288"
+  },
+  "9140766002": {
+   "id": "9140766002",
+   "productId": "9140766002",
+   "name": "팻위즈 스마트홈캠 반려동물 자동 급식기 앱연동, 1개, 화이트, 4L",
+   "keyword": "강아지 자동급식기",
+   "firstSeen": "2026-10-16",
+   "history": [
+    {
+     "date": "2026-10-16",
+     "rank": 5,
+     "price": 59900,
+     "review": 497,
+     "rating": 5,
+     "keyword": "강아지 자동급식기"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "93999151657"
+  },
+  "9358077614": {
+   "id": "9358077614",
+   "productId": "9358077614",
+   "name": "HULULU 대용량 타이머 설정 건식사료 전용 강아지 고양이반려동물 자동 급식기, 1개, 화이트",
+   "keyword": "강아지 자동급식기",
+   "firstSeen": "2026-10-16",
+   "history": [
+    {
+     "date": "2026-10-16",
+     "rank": 6,
+     "price": 32800,
+     "review": 274,
+     "rating": 4.5,
+     "keyword": "강아지 자동급식기"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "94734108312"
+  },
+  "8999714855": {
+   "id": "8999714855",
+   "productId": "8999714855",
+   "name": "로제코 2in1 스마트 자동 급식기 5L 및 자동 리필 급수기 3.5L, 화이트, 1개, 8.5L",
+   "keyword": "강아지 자동급식기",
+   "firstSeen": "2026-10-16",
+   "history": [
+    {
+     "date": "2026-10-16",
+     "rank": 9,
+     "price": 74600,
+     "review": 189,
+     "rating": 4.5,
+     "keyword": "강아지 자동급식기"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "94783312783"
+  },
+  "8024802277": {
+   "id": "8024802277",
+   "productId": "8024802277",
+   "name": "페블펫 와이파이 앱연동 강아지 고양이 애견 대용량 3.5L 스마트 자동급식기 IPF-W100, 1개",
+   "keyword": "강아지 자동급식기",
+   "firstSeen": "2026-10-16",
+   "history": [
+    {
+     "date": "2026-10-16",
+     "rank": 10,
+     "price": 51900,
+     "review": 688,
+     "rating": 5,
+     "keyword": "강아지 자동급식기"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "89610242312"
+  },
+  "8326512700": {
+   "id": "8326512700",
+   "productId": "8326512700",
+   "name": "Bornoon 고양이 정수기 강아지 자동 급수기 2L 애견 음수대+필터 2p, 1개, 반투명, WF040",
+   "keyword": "강아지 자동급수기",
+   "firstSeen": "2026-10-16",
+   "history": [
+    {
+     "date": "2026-10-16",
+     "rank": 2,
+     "price": 19870,
+     "review": 1031,
+     "rating": 4.5,
+     "keyword": "강아지 자동급수기"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "91009951333"
+  },
+  "9162101031": {
+   "id": "9162101031",
+   "productId": "9162101031",
+   "name": "조이쥬드 고양이 자동 급수기 정수기 강아지 1.5L, 1개, 흰색, 3색상 급수기",
+   "keyword": "강아지 자동급수기",
+   "firstSeen": "2026-10-16",
+   "history": [
+    {
+     "date": "2026-10-16",
+     "rank": 3,
+     "price": 11900,
+     "review": 322,
+     "rating": 4.5,
+     "keyword": "강아지 자동급수기"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "93957985707"
+  },
+  "7900251213": {
+   "id": "7900251213",
+   "productId": "7900251213",
+   "name": "페블펫 3중여과 대용량 워터슬라이드 자동급수기 IPW200, 1개, 급수기",
+   "keyword": "강아지 자동급수기",
+   "firstSeen": "2026-10-16",
+   "history": [
+    {
+     "date": "2026-10-16",
+     "rank": 4,
+     "price": 19900,
+     "review": 1290,
+     "rating": 4.5,
+     "keyword": "강아지 자동급수기"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "88742620717"
+  },
+  "7537092645": {
+   "id": "7537092645",
+   "productId": "7537092645",
+   "name": "파우시 고양이 강아지 자동급수기 정수기 3.2L, 스테인리스",
+   "keyword": "강아지 자동급수기",
+   "firstSeen": "2026-10-16",
+   "history": [
+    {
+     "date": "2026-10-16",
+     "rank": 5,
+     "price": 34000,
+     "review": 502,
+     "rating": 4.5,
+     "keyword": "강아지 자동급수기"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "90924915879"
+  },
+  "9708916913": {
+   "id": "9708916913",
+   "productId": "9708916913",
+   "name": "마카롱 플라워 고양이 강아지 순환식 가성비 자동급수기 1.5L USB, 1개, 밀크핑크",
+   "keyword": "강아지 자동급수기",
+   "firstSeen": "2026-10-16",
+   "history": [
+    {
+     "date": "2026-10-16",
+     "rank": 6,
+     "price": 12500,
+     "review": 52,
+     "rating": 5,
+     "keyword": "강아지 자동급수기"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "95983822344"
+  },
+  "9355586905": {
+   "id": "9355586905",
+   "productId": "9355586905",
+   "name": "보니렌 반려동물 퓨어냥 자동 정수 급수기 BN-CF001, _화이트_, 화이트, 1개",
+   "keyword": "강아지 자동급수기",
+   "firstSeen": "2026-10-16",
+   "history": [
+    {
+     "date": "2026-10-16",
+     "rank": 7,
+     "price": 45900,
+     "review": 701,
+     "rating": 5,
+     "keyword": "강아지 자동급수기"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "91955613697"
+  },
+  "8528673640": {
+   "id": "8528673640",
+   "productId": "8528673640",
+   "name": "펫그래비티 무선 무필터 물비움 정수기 3L 필터가 필요없는 강아지 고양이 급수기, 1개, 단독상품, 물비움정수기",
+   "keyword": "강아지 자동급수기",
+   "firstSeen": "2026-10-16",
+   "history": [
+    {
+     "date": "2026-10-16",
+     "rank": 8,
+     "price": 48900,
+     "review": 405,
+     "rating": 5,
+     "keyword": "강아지 자동급수기"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "91762829831"
+  },
+  "7925480574": {
+   "id": "7925480574",
+   "productId": "7925480574",
+   "name": "파우시 반려동물 실린더 도자기 자동급수기, 화이트, 1개",
+   "keyword": "강아지 자동급수기",
+   "firstSeen": "2026-10-16",
+   "history": [
+    {
+     "date": "2026-10-16",
+     "rank": 9,
+     "price": 34490,
+     "review": 182,
+     "rating": 4.5,
+     "keyword": "강아지 자동급수기"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "90995011008"
+  },
+  "9016020482": {
+   "id": "9016020482",
+   "productId": "9016020482",
+   "name": "파우시 무선 자동급수기 강아지 고양이 정수기 급수기, 1개, 스테인리스, w2",
+   "keyword": "강아지 자동급수기",
+   "firstSeen": "2026-10-16",
+   "history": [
+    {
+     "date": "2026-10-16",
+     "rank": 10,
+     "price": 41500,
+     "review": 178,
+     "rating": 5,
+     "keyword": "강아지 자동급수기"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "93408208456"
+  },
+  "9304503741": {
+   "id": "9304503741",
+   "productId": "9304503741",
+   "name": "코코판다 강아지 고양이 오리팡 러버덕 노즈워크 간식 장난감, 옐로우, 1개",
+   "keyword": "노즈워크 장난감",
+   "firstSeen": "2026-10-16",
+   "history": [
+    {
+     "date": "2026-10-16",
+     "rank": 3,
+     "price": 4600,
+     "review": 701,
+     "rating": 4.5,
+     "keyword": "노즈워크 장난감"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "95143449209"
+  },
+  "8403641416": {
+   "id": "8403641416",
+   "productId": "8403641416",
+   "name": "포우퀘스트 아보카도 흘림방지 노즈워크 강아지 간식 오뚝이 장난감 [레벨3], 1세트, 혼합",
+   "keyword": "노즈워크 장난감",
+   "firstSeen": "2026-10-16",
+   "history": [
+    {
+     "date": "2026-10-16",
+     "rank": 8,
+     "price": 26800,
+     "review": 1565,
+     "rating": 4.5,
+     "keyword": "노즈워크 장난감"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "91309171017"
+  },
+  "9683586380": {
+   "id": "9683586380",
+   "productId": "9683586380",
+   "name": "콩 KONG 퍼피 새끼 강아지 고양이 간식 먹이 분리불안 장난감 콩토이 미니 소 중 대, 핑크, 1개",
+   "keyword": "노즈워크 장난감",
+   "firstSeen": "2026-10-16",
+   "history": [
+    {
+     "date": "2026-10-16",
+     "rank": 10,
+     "price": 8500,
+     "review": 197,
+     "rating": 4.5,
+     "keyword": "노즈워크 장난감"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "94501008107"
+  },
+  "8147489872": {
+   "id": "8147489872",
+   "productId": "8147489872",
+   "name": "딩동펫 반려동물 2in1 휴대용 버섯 물병, 화이트, 1개",
+   "keyword": "강아지 휴대용 물통",
+   "firstSeen": "2026-10-16",
+   "history": [
+    {
+     "date": "2026-10-16",
+     "rank": 2,
+     "price": 8920,
+     "review": 432,
+     "rating": 4.5,
+     "keyword": "강아지 휴대용 물통"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "90204316259"
+  },
+  "8277259100": {
+   "id": "8277259100",
+   "productId": "8277259100",
+   "name": "미스터추추 반려동물 2in1 멀티 클라우드 휴대용 물병, 화이트, 2개",
+   "keyword": "강아지 휴대용 물통",
+   "firstSeen": "2026-10-16",
+   "history": [
+    {
+     "date": "2026-10-16",
+     "rank": 3,
+     "price": 5980,
+     "review": 1194,
+     "rating": 4.5,
+     "keyword": "강아지 휴대용 물통"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "95255324760"
+  },
+  "8384441620": {
+   "id": "8384441620",
+   "productId": "8384441620",
+   "name": "리카리카 반려동물 휴대용 원터치 산책 물통, 민트, 1개",
+   "keyword": "강아지 휴대용 물통",
+   "firstSeen": "2026-10-16",
+   "history": [
+    {
+     "date": "2026-10-16",
+     "rank": 4,
+     "price": 10800,
+     "review": 217,
+     "rating": 5,
+     "keyword": "강아지 휴대용 물통"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "92787165138"
+  },
+  "9690631234": {
+   "id": "9690631234",
+   "productId": "9690631234",
+   "name": "ZOZOFO 반려동물 휴대용 사료 급수기 2in1 물병+급식기 강아지 고양이 산책 간식 사료병 캡슐물병, 화이트-물300ml(사료칸 분리구조), 1개",
+   "keyword": "강아지 휴대용 물통",
+   "firstSeen": "2026-10-16",
+   "history": [
+    {
+     "date": "2026-10-16",
+     "rank": 6,
+     "price": 11800,
+     "review": 203,
+     "rating": 5,
+     "keyword": "강아지 휴대용 물통"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "94984633918"
+  },
+  "6079402446": {
+   "id": "6079402446",
+   "productId": "6079402446",
+   "name": "딩동펫 휴대용 버튼식 강아지 물병 + 풉백, 민트, 1세트",
+   "keyword": "강아지 휴대용 물통",
+   "firstSeen": "2026-10-16",
+   "history": [
+    {
+     "date": "2026-10-16",
+     "rank": 7,
+     "price": 5700,
+     "review": 9500,
+     "rating": 4.5,
+     "keyword": "강아지 휴대용 물통"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "3670421205"
+  },
+  "5647103950": {
+   "id": "5647103950",
+   "productId": "5647103950",
+   "name": "레드미넛 반려동물 접이식 휴대용 물병 420ml, 화이트, 1개",
+   "keyword": "강아지 휴대용 물통",
+   "firstSeen": "2026-10-16",
+   "history": [
+    {
+     "date": "2026-10-16",
+     "rank": 8,
+     "price": 9900,
+     "review": 1038,
+     "rating": 4.5,
+     "keyword": "강아지 휴대용 물통"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "76515998420"
+  },
+  "9478841526": {
+   "id": "9478841526",
+   "productId": "9478841526",
+   "name": "포포몽 말랑 실리콘 보틀 반려동물 물병 400ml, 혼합색상, 1개",
+   "keyword": "강아지 휴대용 물통",
+   "firstSeen": "2026-10-16",
+   "history": [
+    {
+     "date": "2026-10-16",
+     "rank": 9,
+     "price": 10440,
+     "review": 174,
+     "rating": 5,
+     "keyword": "강아지 휴대용 물통"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "95173953466"
+  },
+  "5166721424": {
+   "id": "5166721424",
+   "productId": "5166721424",
+   "name": "댕댕펫 반려동물 휴대용 접이식 버튼 물병, 퍼플, 1개",
+   "keyword": "강아지 휴대용 물통",
+   "firstSeen": "2026-10-16",
+   "history": [
+    {
+     "date": "2026-10-16",
+     "rank": 10,
+     "price": 11110,
+     "review": 4,
+     "rating": 4.5,
+     "keyword": "강아지 휴대용 물통"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "5166721424"
+  },
+  "8399407822": {
+   "id": "8399407822",
+   "productId": "8399407822",
+   "name": "붐붐포 반려동물 이지 클린 그루밍 눈꼽빗 둥근 라운드 6.5 x 5.5 cm, 레드, 1개",
+   "keyword": "강아지 털빗",
+   "firstSeen": "2026-10-16",
+   "history": [
+    {
+     "date": "2026-10-16",
+     "rank": 2,
+     "price": 6200,
+     "review": 1081,
+     "rating": 5,
+     "keyword": "강아지 털빗"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "91295669441"
+  },
+  "9638605736": {
+   "id": "9638605736",
+   "productId": "9638605736",
+   "name": "디오벨르 원터치 털엉킴방지 안아픈 강아지 고양이 빗, 1개, 그레이",
+   "keyword": "강아지 털빗",
+   "firstSeen": "2026-10-16",
+   "history": [
+    {
+     "date": "2026-10-16",
+     "rank": 3,
+     "price": 4900,
+     "review": 196,
+     "rating": 4.5,
+     "keyword": "강아지 털빗"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "96066488094"
+  },
+  "6237113432": {
+   "id": "6237113432",
+   "productId": "6237113432",
+   "name": "코멧 펫 100% 고무헤드 반려동물 슬리커 브러쉬, 1개",
+   "keyword": "강아지 털빗",
+   "firstSeen": "2026-10-16",
+   "history": [
+    {
+     "date": "2026-10-16",
+     "rank": 4,
+     "price": 6730,
+     "review": 3358,
+     "rating": 4.5,
+     "keyword": "강아지 털빗"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "79835363146"
+  },
+  "8596043330": {
+   "id": "8596043330",
+   "productId": "8596043330",
+   "name": "독스랩 반려동물 털갈이 빗 디디 브러쉬 S, 혼합색상, 1개",
+   "keyword": "강아지 털빗",
+   "firstSeen": "2026-10-16",
+   "history": [
+    {
+     "date": "2026-10-16",
+     "rank": 5,
+     "price": 20900,
+     "review": 2574,
+     "rating": 4.5,
+     "keyword": "강아지 털빗"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "95231624704"
+  },
+  "9291493413": {
+   "id": "9291493413",
+   "productId": "9291493413",
+   "name": "자극없는 고양이 강아지 원터치 브러쉬 눈꼽 빗 세트, 1개, 화이트",
+   "keyword": "강아지 털빗",
+   "firstSeen": "2026-10-16",
+   "history": [
+    {
+     "date": "2026-10-16",
+     "rank": 6,
+     "price": 6400,
+     "review": 286,
+     "rating": 4.5,
+     "keyword": "강아지 털빗"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "94966295879"
+  },
+  "7771671077": {
+   "id": "7771671077",
+   "productId": "7771671077",
+   "name": "리스펫 반려동물 올인원 더블 브러쉬, 혼합색상, 1개",
+   "keyword": "강아지 털빗",
+   "firstSeen": "2026-10-16",
+   "history": [
+    {
+     "date": "2026-10-16",
+     "rank": 7,
+     "price": 7980,
+     "review": 1673,
+     "rating": 5,
+     "keyword": "강아지 털빗"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "88047550377"
+  },
+  "6697014892": {
+   "id": "6697014892",
+   "productId": "6697014892",
+   "name": "라무달리 반려동물 원터치 브러쉬 10.5 x 18.5 cm, 혼합색상, 1개",
+   "keyword": "강아지 털빗",
+   "firstSeen": "2026-10-16",
+   "history": [
+    {
+     "date": "2026-10-16",
+     "rank": 8,
+     "price": 13350,
+     "review": 1769,
+     "rating": 4.5,
+     "keyword": "강아지 털빗"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "82716987296"
+  },
+  "8691305106": {
+   "id": "8691305106",
+   "productId": "8691305106",
+   "name": "플러쉬퍼피 반려동물 슬리커 소프트 브러쉬 12 x 15.8 cm, 블루, 1개",
+   "keyword": "강아지 털빗",
+   "firstSeen": "2026-10-16",
+   "history": [
+    {
+     "date": "2026-10-16",
+     "rank": 9,
+     "price": 27500,
+     "review": 2086,
+     "rating": 5,
+     "keyword": "강아지 털빗"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "76017005719"
+  },
+  "26968424": {
+   "id": "26968424",
+   "productId": "26968424",
+   "name": "바비온 강아지 고양이 빗 듀얼 콤 브러쉬 086R 185 x 47 mm, 오렌지+아이보리, 1개",
+   "keyword": "강아지 털빗",
+   "firstSeen": "2026-10-16",
+   "history": [
+    {
+     "date": "2026-10-16",
+     "rank": 10,
+     "price": 7700,
+     "review": 4734,
+     "rating": 4.5,
+     "keyword": "강아지 털빗"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "3199043310"
+  }
+ },
+ "updated": "2026-10-16",
+ "key": "productId",
+ "migratedAt": "2026-10-16",
+ "migrationNote": "vendorItemId(data-id) 키 → productId. 구 스냅샷은 상품명 앞 20자 대조, 미대조분은 'n:' 키"
 }

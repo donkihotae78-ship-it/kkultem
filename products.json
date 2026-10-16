@@ -2173,6 +2173,752 @@
    "usedAt": null,
    "lastSeen": "2026-10-16",
    "vendorItemId": "3199043310"
+  },
+  "8487404030": {
+   "id": "8487404030",
+   "productId": "8487404030",
+   "name": "탐사 강아지 고구마말랭이 간식, 1kg, 1개, 고구마",
+   "keyword": "강아지 간식",
+   "firstSeen": "2026-10-16",
+   "history": [
+    {
+     "date": "2026-10-16",
+     "rank": 1,
+     "price": 9890,
+     "review": 13656,
+     "rating": 5,
+     "keyword": "강아지 간식"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "91576053521"
+  },
+  "6070980773": {
+   "id": "6070980773",
+   "productId": "6070980773",
+   "name": "동원뉴트리플랜 고양이 간식 습식캔, 혼합맛(흰살참치/닭가슴살), 160g, 24개",
+   "keyword": "고양이 간식",
+   "firstSeen": "2026-10-16",
+   "history": [
+    {
+     "date": "2026-10-16",
+     "rank": 1,
+     "price": 21500,
+     "review": 50211,
+     "rating": 5,
+     "keyword": "고양이 간식"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "94774194653"
+  },
+  "62318395": {
+   "id": "62318395",
+   "productId": "62318395",
+   "name": "탐사 강아지 사료 연어 레시피, 3kg, 1개",
+   "keyword": "강아지 사료",
+   "firstSeen": "2026-10-16",
+   "history": [
+    {
+     "date": "2026-10-16",
+     "rank": 1,
+     "price": 15990,
+     "review": 75264,
+     "rating": 5,
+     "keyword": "강아지 사료"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "70248727064"
+  },
+  "8615130283": {
+   "id": "8615130283",
+   "productId": "8615130283",
+   "name": "캐츠랑 전연령 고양이 건식사료, 닭+참치, 5kg, 1개",
+   "keyword": "고양이 사료",
+   "firstSeen": "2026-10-16",
+   "history": [
+    {
+     "date": "2026-10-16",
+     "rank": 1,
+     "price": 15700,
+     "review": 143275,
+     "rating": 5,
+     "keyword": "고양이 사료"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "70734097621"
+  },
+  "108459480": {
+   "id": "108459480",
+   "productId": "108459480",
+   "name": "페페로니 강아지 진짜 오메가3 져키, 연어, 180g, 1개",
+   "keyword": "강아지 간식",
+   "firstSeen": "2026-10-16",
+   "history": [
+    {
+     "date": "2026-10-16",
+     "rank": 2,
+     "price": 6000,
+     "review": 30359,
+     "rating": 5,
+     "keyword": "강아지 간식"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "94362381603"
+  },
+  "4802816": {
+   "id": "4802816",
+   "productId": "4802816",
+   "name": "챠오츄르 고양이 버라이어티 간식, 참치, 560g, 1개",
+   "keyword": "고양이 간식",
+   "firstSeen": "2026-10-16",
+   "history": [
+    {
+     "date": "2026-10-16",
+     "rank": 2,
+     "price": 17600,
+     "review": 59220,
+     "rating": 5,
+     "keyword": "고양이 간식"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "3031995638"
+  },
+  "7912980135": {
+   "id": "7912980135",
+   "productId": "7912980135",
+   "name": "now 어덜트 강아지 그레인프리 스몰브리드 건식사료, 칠면조, 2kg, 1개",
+   "keyword": "강아지 사료",
+   "firstSeen": "2026-10-16",
+   "history": [
+    {
+     "date": "2026-10-16",
+     "rank": 2,
+     "price": 30230,
+     "review": 25583,
+     "rating": 5,
+     "keyword": "강아지 사료"
+    }
+   ],
+   "videoStatus": "게시",
+   "postUrl": "https://youtube.com/shorts/zX82sLRtAtY",
+   "usedAt": "2026-10-16",
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "4116327396",
+   "slug": "2026-10-16_now_smallbreed_food",
+   "coupangIds": {
+    "productId": "7912980135",
+    "itemId": "21718136531",
+    "vendorItemId": "4116327396"
+   },
+   "deepLinkYoutube": "https://link.coupang.com/a/hS984otG8W",
+   "deepLinkInstagram": "https://link.coupang.com/a/hTaaqOriyy",
+   "g3Price": {
+    "date": "2026-10-16",
+    "price": 30230,
+    "source": "상세페이지"
+   },
+   "slot": "Fri",
+   "category": "반려동물 식품",
+   "postedAt": "2026-10-16",
+   "postedPrice": 30230,
+   "deepLink": "https://link.coupang.com/a/hS984otG8W",
+   "postUrlInstagram": "https://www.instagram.com/shin.hotae/reel/Dei9yN7uM9v/",
+   "channel": "YouTube(공개) + Instagram Reels(공개)"
+  },
+  "9239525189": {
+   "id": "9239525189",
+   "productId": "9239525189",
+   "name": "캐츠랑 전연령 고양이 비타플러스 건식사료, 닭, 2kg, 1개",
+   "keyword": "고양이 사료",
+   "firstSeen": "2026-10-16",
+   "history": [
+    {
+     "date": "2026-10-16",
+     "rank": 2,
+     "price": 9440,
+     "review": 60981,
+     "rating": 5,
+     "keyword": "고양이 사료"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "70734097756"
+  },
+  "9456947062": {
+   "id": "9456947062",
+   "productId": "9456947062",
+   "name": "굿데이 강아지 건강한 육포, 오리가슴살 스틱, 300g, 1개",
+   "keyword": "강아지 간식",
+   "firstSeen": "2026-10-16",
+   "history": [
+    {
+     "date": "2026-10-16",
+     "rank": 3,
+     "price": 10350,
+     "review": 70522,
+     "rating": 5,
+     "keyword": "강아지 간식"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "3707467639"
+  },
+  "7170134497": {
+   "id": "7170134497",
+   "productId": "7170134497",
+   "name": "도그랑 전연령 강아지 클래식 건식사료, 닭, 5kg, 1개",
+   "keyword": "강아지 사료",
+   "firstSeen": "2026-10-16",
+   "history": [
+    {
+     "date": "2026-10-16",
+     "rank": 3,
+     "price": 9900,
+     "review": 37022,
+     "rating": 5,
+     "keyword": "강아지 사료"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "3000148538"
+  },
+  "66936708": {
+   "id": "66936708",
+   "productId": "66936708",
+   "name": "웁스 반려동물 닭가슴살 간식, 오리지널, 22g, 30개",
+   "keyword": "강아지 간식",
+   "firstSeen": "2026-10-16",
+   "history": [
+    {
+     "date": "2026-10-16",
+     "rank": 4,
+     "price": 9050,
+     "review": 16427,
+     "rating": 5,
+     "keyword": "강아지 간식"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "3546221593"
+  },
+  "7422500929": {
+   "id": "7422500929",
+   "productId": "7422500929",
+   "name": "로얄캐닌 강아지 하이포알러제닉 스몰독 사료, 피부/피모+알러지, 1kg, 1개",
+   "keyword": "강아지 사료",
+   "firstSeen": "2026-10-16",
+   "history": [
+    {
+     "date": "2026-10-16",
+     "rank": 4,
+     "price": 25930,
+     "review": 10953,
+     "rating": 5,
+     "keyword": "강아지 사료"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "95594975947"
+  },
+  "8789487511": {
+   "id": "8789487511",
+   "productId": "8789487511",
+   "name": "코멧 베이직 전연령 고양이 사료, 20kg, 1개, 닭",
+   "keyword": "고양이 사료",
+   "firstSeen": "2026-10-16",
+   "history": [
+    {
+     "date": "2026-10-16",
+     "rank": 4,
+     "price": 33490,
+     "review": 6050,
+     "rating": 5,
+     "keyword": "고양이 사료"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "92572038251"
+  },
+  "9616144397": {
+   "id": "9616144397",
+   "productId": "9616144397",
+   "name": "멍식이네 맛있개먹개 대용량 강아지 간식껌, 1개, 1kg, 오리말이고구마",
+   "keyword": "강아지 간식",
+   "firstSeen": "2026-10-16",
+   "history": [
+    {
+     "date": "2026-10-16",
+     "rank": 5,
+     "price": 12490,
+     "review": 1084,
+     "rating": 4.5,
+     "keyword": "강아지 간식"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "96014538999"
+  },
+  "8463452569": {
+   "id": "8463452569",
+   "productId": "8463452569",
+   "name": "네이처펫 반려동물 동결건조 간식, 치킨 큐브맛, 300g, 1개",
+   "keyword": "고양이 간식",
+   "firstSeen": "2026-10-16",
+   "history": [
+    {
+     "date": "2026-10-16",
+     "rank": 5,
+     "price": 10900,
+     "review": 9509,
+     "rating": 5,
+     "keyword": "고양이 간식"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "91499159062"
+  },
+  "6224528154": {
+   "id": "6224528154",
+   "productId": "6224528154",
+   "name": "마이펫닥터 강아지 시그니처 티어스 컨트롤 기능성 사료, 눈물개선/눈건강, 1kg, 1개",
+   "keyword": "강아지 사료",
+   "firstSeen": "2026-10-16",
+   "history": [
+    {
+     "date": "2026-10-16",
+     "rank": 5,
+     "price": 18000,
+     "review": 25039,
+     "rating": 5,
+     "keyword": "강아지 사료"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "79744077664"
+  },
+  "8391635007": {
+   "id": "8391635007",
+   "productId": "8391635007",
+   "name": "캐츠랑 전연령 고양이 리브레 건식사료, 닭+참치, 18kg, 1개",
+   "keyword": "고양이 사료",
+   "firstSeen": "2026-10-16",
+   "history": [
+    {
+     "date": "2026-10-16",
+     "rank": 5,
+     "price": 41080,
+     "review": 12127,
+     "rating": 5,
+     "keyword": "고양이 사료"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "91016112001"
+  },
+  "9742995659": {
+   "id": "9742995659",
+   "productId": "9742995659",
+   "name": "챠오츄르 고양이 짜먹는 간식, 혼합맛(참치/해산물), 14g, 20개",
+   "keyword": "고양이 간식",
+   "firstSeen": "2026-10-16",
+   "history": [
+    {
+     "date": "2026-10-16",
+     "rank": 6,
+     "price": 11600,
+     "review": 19052,
+     "rating": 5,
+     "keyword": "고양이 간식"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "86950767895"
+  },
+  "6113370508": {
+   "id": "6113370508",
+   "productId": "6113370508",
+   "name": "프로베스트 고양이 그린 전연령 기능성 사료, 헤어볼+장건강, 5kg, 1개",
+   "keyword": "고양이 사료",
+   "firstSeen": "2026-10-16",
+   "history": [
+    {
+     "date": "2026-10-16",
+     "rank": 6,
+     "price": 15900,
+     "review": 64478,
+     "rating": 5,
+     "keyword": "고양이 사료"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "3116434329"
+  },
+  "6631842834": {
+   "id": "6631842834",
+   "productId": "6631842834",
+   "name": "탐사 반려동물 동결건조 간식 닭가슴살 240g, 1개",
+   "keyword": "강아지 간식",
+   "firstSeen": "2026-10-16",
+   "history": [
+    {
+     "date": "2026-10-16",
+     "rank": 7,
+     "price": 12750,
+     "review": 22705,
+     "rating": 5,
+     "keyword": "강아지 간식"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "82343805562"
+  },
+  "8658163691": {
+   "id": "8658163691",
+   "productId": "8658163691",
+   "name": "탐사 고양이 간식 순살 닭가슴살 대용량, 22g, 100개",
+   "keyword": "고양이 간식",
+   "firstSeen": "2026-10-16",
+   "history": [
+    {
+     "date": "2026-10-16",
+     "rank": 7,
+     "price": 20610,
+     "review": 7566,
+     "rating": 4.5,
+     "keyword": "고양이 간식"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "92128005900"
+  },
+  "9103336967": {
+   "id": "9103336967",
+   "productId": "9103336967",
+   "name": "로얄캐닌 미니 인도어 어덜트 건식사료, 3kg, 1개, 닭+오리",
+   "keyword": "강아지 사료",
+   "firstSeen": "2026-10-16",
+   "history": [
+    {
+     "date": "2026-10-16",
+     "rank": 7,
+     "price": 39720,
+     "review": 10821,
+     "rating": 5,
+     "keyword": "강아지 사료"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "90287519030"
+  },
+  "8775876916": {
+   "id": "8775876916",
+   "productId": "8775876916",
+   "name": "뉴트리나 프라임캣 옐로우, 20kg, 1개",
+   "keyword": "고양이 사료",
+   "firstSeen": "2026-10-16",
+   "history": [
+    {
+     "date": "2026-10-16",
+     "rank": 7,
+     "price": 32780,
+     "review": 4716,
+     "rating": 4.5,
+     "keyword": "고양이 사료"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "92801921139"
+  },
+  "6810269534": {
+   "id": "6810269534",
+   "productId": "6810269534",
+   "name": "템테이션 고양이 스낵, 고소한 참치맛, 75g, 3개",
+   "keyword": "고양이 간식",
+   "firstSeen": "2026-10-16",
+   "history": [
+    {
+     "date": "2026-10-16",
+     "rank": 8,
+     "price": 6090,
+     "review": 73551,
+     "rating": 5,
+     "keyword": "고양이 간식"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "91444314771"
+  },
+  "9287038199": {
+   "id": "9287038199",
+   "productId": "9287038199",
+   "name": "디어랩스 전연령 강아지 울애기쌩쌩 스팀베이크드 사료, 연어, 1kg, 1개",
+   "keyword": "강아지 사료",
+   "firstSeen": "2026-10-16",
+   "history": [
+    {
+     "date": "2026-10-16",
+     "rank": 8,
+     "price": 25590,
+     "review": 4210,
+     "rating": 4.5,
+     "keyword": "강아지 사료"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "95051779947"
+  },
+  "7912980214": {
+   "id": "7912980214",
+   "productId": "7912980214",
+   "name": "하림펫푸드밥이보약 고양이 기능성 사료, 헤어볼, 3.4kg, 1개",
+   "keyword": "고양이 사료",
+   "firstSeen": "2026-10-16",
+   "history": [
+    {
+     "date": "2026-10-16",
+     "rank": 8,
+     "price": 34570,
+     "review": 54822,
+     "rating": 5,
+     "keyword": "고양이 사료"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "70373191035"
+  },
+  "8129382339": {
+   "id": "8129382339",
+   "productId": "8129382339",
+   "name": "졸리마켓 강아지 졸리의 행복한 간식 상점 껌, 오리우유껌, 1kg, 1개",
+   "keyword": "강아지 간식",
+   "firstSeen": "2026-10-16",
+   "history": [
+    {
+     "date": "2026-10-16",
+     "rank": 9,
+     "price": 13900,
+     "review": 15316,
+     "rating": 5,
+     "keyword": "강아지 간식"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "91045371315"
+  },
+  "13355779": {
+   "id": "13355779",
+   "productId": "13355779",
+   "name": "now 시니어 강아지 그레인프리 스몰브리드 건식사료, 칠면조, 2kg, 1개",
+   "keyword": "강아지 사료",
+   "firstSeen": "2026-10-16",
+   "history": [
+    {
+     "date": "2026-10-16",
+     "rank": 9,
+     "price": 30230,
+     "review": 15765,
+     "rating": 5,
+     "keyword": "강아지 사료"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "4116329026"
+  },
+  "7912980413": {
+   "id": "7912980413",
+   "productId": "7912980413",
+   "name": "하림펫푸드 어덜트 더리얼 캣 그레인프리 크런치 건식사료, 닭, 1.6kg, 1개",
+   "keyword": "고양이 사료",
+   "firstSeen": "2026-10-16",
+   "history": [
+    {
+     "date": "2026-10-16",
+     "rank": 9,
+     "price": 28160,
+     "review": 26719,
+     "rating": 5,
+     "keyword": "고양이 사료"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "70981877782"
+  },
+  "8428421353": {
+   "id": "8428421353",
+   "productId": "8428421353",
+   "name": "아이핏코리아 강아지 수라상 건조사사미, 오리가슴살, 1kg, 1개",
+   "keyword": "강아지 간식",
+   "firstSeen": "2026-10-16",
+   "history": [
+    {
+     "date": "2026-10-16",
+     "rank": 10,
+     "price": 11900,
+     "review": 9751,
+     "rating": 5,
+     "keyword": "강아지 간식"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "91457651095"
+  },
+  "9131006910": {
+   "id": "9131006910",
+   "productId": "9131006910",
+   "name": "펫츠몬 고양이 짜먹는 스틱 60P, 혼합맛(닭고기/참치/연어), 900g, 1개",
+   "keyword": "고양이 간식",
+   "firstSeen": "2026-10-16",
+   "history": [
+    {
+     "date": "2026-10-16",
+     "rank": 10,
+     "price": 7890,
+     "review": 4079,
+     "rating": 5,
+     "keyword": "고양이 간식"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "93837069179"
+  },
+  "294787069": {
+   "id": "294787069",
+   "productId": "294787069",
+   "name": "시저 1세 이상 강아지 버라이어티팩 주식캔 12p, 혼합맛, 100g, 1세트",
+   "keyword": "강아지 사료",
+   "firstSeen": "2026-10-16",
+   "history": [
+    {
+     "date": "2026-10-16",
+     "rank": 10,
+     "price": 19880,
+     "review": 27359,
+     "rating": 5,
+     "keyword": "강아지 사료"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "5307507664"
+  },
+  "1785268681": {
+   "id": "1785268681",
+   "productId": "1785268681",
+   "name": "캐츠랑 키튼 고양이 건식 사료, 닭+참치, 2kg, 1개",
+   "keyword": "고양이 사료",
+   "firstSeen": "2026-10-16",
+   "history": [
+    {
+     "date": "2026-10-16",
+     "rank": 10,
+     "price": 10400,
+     "review": 36998,
+     "rating": 5,
+     "keyword": "고양이 사료"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-16",
+   "vendorItemId": "94595723789"
   }
  },
  "updated": "2026-10-16",

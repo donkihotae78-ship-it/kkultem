@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://donkihotae78-ship-it.github.io/kkultem/sitemap.xml

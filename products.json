@@ -34,6 +34,22 @@
      "review": 1234,
      "rating": 5,
      "keyword": "강아지 자동급수기"
+    },
+    {
+     "date": "2026-10-23",
+     "rank": 1,
+     "price": 53900,
+     "review": 1274,
+     "rating": 5,
+     "keyword": "강아지 자동급수기"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 1,
+     "price": 53900,
+     "review": 1278,
+     "rating": 5.0,
+     "keyword": "강아지 자동급수기"
     }
    ],
    "coupangIds": {
@@ -42,7 +58,7 @@
     "vendorItemId": "95085716592"
    },
    "deepLinkYoutube": "https://link.coupang.com/a/hS7RJJj7jE",
-   "lastSeen": "2026-10-16"
+   "lastSeen": "2026-10-24"
   },
   "7156630079": {
    "videoStatus": "게시",
@@ -90,10 +106,26 @@
      "review": 2538,
      "rating": 5,
      "keyword": "강아지 자동급식기"
+    },
+    {
+     "date": "2026-10-23",
+     "rank": 1,
+     "price": 45700,
+     "review": 2551,
+     "rating": 5,
+     "keyword": "강아지 자동급식기"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 1,
+     "price": 45700,
+     "review": 2558,
+     "rating": 5.0,
+     "keyword": "강아지 자동급식기"
     }
    ],
    "deepLinkYoutube": "https://link.coupang.com/a/hS7NrZERPg",
-   "lastSeen": "2026-10-16"
+   "lastSeen": "2026-10-24"
   },
   "8178553042": {
    "videoStatus": "게시",
@@ -141,10 +173,26 @@
      "review": 2184,
      "rating": 4.5,
      "keyword": "노즈워크 장난감"
+    },
+    {
+     "date": "2026-10-23",
+     "rank": 2,
+     "price": 14450,
+     "review": 2209,
+     "rating": 4.5,
+     "keyword": "노즈워크 장난감"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 2,
+     "price": 14450,
+     "review": 2209,
+     "rating": 4.5,
+     "keyword": "노즈워크 장난감"
     }
    ],
    "deepLinkYoutube": "https://link.coupang.com/a/hS7QSyoF5M",
-   "lastSeen": "2026-10-16"
+   "lastSeen": "2026-10-24"
   },
   "n:Bornoon자동급수기2L필터2p": {
    "id": "n:Bornoon자동급수기2L필터2p",
@@ -344,12 +392,28 @@
      "review": 1454,
      "rating": 5,
      "keyword": "강아지 자동급식기"
+    },
+    {
+     "date": "2026-10-23",
+     "rank": 2,
+     "price": 49700,
+     "review": 1315,
+     "rating": 5,
+     "keyword": "강아지 자동급식기"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 2,
+     "price": 49700,
+     "review": 1468,
+     "rating": 5.0,
+     "keyword": "강아지 자동급식기"
     }
    ],
    "videoStatus": "미생성",
    "postUrl": null,
    "usedAt": null,
-   "lastSeen": "2026-10-16",
+   "lastSeen": "2026-10-24",
    "vendorItemId": "93116627330"
   },
   "8142883200": {
@@ -374,12 +438,28 @@
      "review": 1179,
      "rating": 4.5,
      "keyword": "강아지 자동급식기"
+    },
+    {
+     "date": "2026-10-23",
+     "rank": 3,
+     "price": 34670,
+     "review": 1183,
+     "rating": 4.5,
+     "keyword": "강아지 자동급식기"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 3,
+     "price": 34670,
+     "review": 1184,
+     "rating": 4.5,
+     "keyword": "강아지 자동급식기"
     }
    ],
    "videoStatus": "미생성",
    "postUrl": null,
    "usedAt": null,
-   "lastSeen": "2026-10-16",
+   "lastSeen": "2026-10-24",
    "vendorItemId": "90916690809"
   },
   "5243733818": {
@@ -456,13 +536,32 @@
      "review": 59,
      "rating": 5,
      "keyword": "강아지 자동급식기"
+    },
+    {
+     "date": "2026-10-23",
+     "rank": 5,
+     "price": 30900,
+     "review": 68,
+     "rating": 5,
+     "keyword": "강아지 자동급식기"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 5,
+     "price": 30900,
+     "review": 69,
+     "rating": 5.0,
+     "keyword": "강아지 자동급식기"
     }
    ],
-   "videoStatus": "미생성",
-   "postUrl": null,
-   "usedAt": null,
-   "lastSeen": "2026-10-16",
-   "vendorItemId": "94659428503"
+   "videoStatus": "게시",
+   "postUrl": "https://youtube.com/shorts/HuAGaBfbMiM",
+   "usedAt": "2026-10-23",
+   "lastSeen": "2026-10-24",
+   "vendorItemId": "94659428503",
+   "deepLink": "https://link.coupang.com/a/h4LB91Dl9g",
+   "postedAt": "2026-10-23",
+   "postedPrice": 30900
   },
   "n:HULULU대용량타이머자동급식기": {
    "id": "n:HULULU대용량타이머자동급식기",
@@ -530,12 +629,28 @@
      "review": 209,
      "rating": 4.5,
      "keyword": "강아지 자동급식기"
+    },
+    {
+     "date": "2026-10-23",
+     "rank": 8,
+     "price": 56700,
+     "review": 211,
+     "rating": 4.5,
+     "keyword": "강아지 자동급식기"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 7,
+     "price": 56700,
+     "review": 212,
+     "rating": 4.5,
+     "keyword": "강아지 자동급식기"
     }
    ],
    "videoStatus": "미생성",
    "postUrl": null,
    "usedAt": null,
-   "lastSeen": "2026-10-16",
+   "lastSeen": "2026-10-24",
    "vendorItemId": "93229393095"
   },
   "6247467825": {
@@ -560,12 +675,28 @@
      "review": 13061,
      "rating": 4.5,
      "keyword": "강아지 털빗"
+    },
+    {
+     "date": "2026-10-23",
+     "rank": 1,
+     "price": 8740,
+     "review": 13114,
+     "rating": 4.5,
+     "keyword": "강아지 털빗"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 1,
+     "price": 8740,
+     "review": 13120,
+     "rating": 4.5,
+     "keyword": "강아지 털빗"
     }
    ],
    "videoStatus": "미생성",
    "postUrl": null,
    "usedAt": null,
-   "lastSeen": "2026-10-16",
+   "lastSeen": "2026-10-24",
    "vendorItemId": "70398123116"
   },
   "n:붐붐포이지클린그루밍눈꼽빗": {
@@ -766,12 +897,28 @@
      "review": 31931,
      "rating": 5,
      "keyword": "강아지 털제거기"
+    },
+    {
+     "date": "2026-10-23",
+     "rank": 1,
+     "price": 11890,
+     "review": 32082,
+     "rating": 5,
+     "keyword": "강아지 털제거기"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 1,
+     "price": 11890,
+     "review": 32101,
+     "rating": 5.0,
+     "keyword": "강아지 털제거기"
     }
    ],
    "videoStatus": "미생성",
    "postUrl": null,
    "usedAt": null,
-   "lastSeen": "2026-10-16",
+   "lastSeen": "2026-10-24",
    "vendorItemId": "74390761859"
   },
   "1826916442": {
@@ -848,12 +995,28 @@
      "review": 411,
      "rating": 4.5,
      "keyword": "강아지 털제거기"
+    },
+    {
+     "date": "2026-10-23",
+     "rank": 4,
+     "price": 6900,
+     "review": 477,
+     "rating": 4.5,
+     "keyword": "강아지 털제거기"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 4,
+     "price": 6900,
+     "review": 491,
+     "rating": 4.5,
+     "keyword": "강아지 털제거기"
     }
    ],
    "videoStatus": "미생성",
    "postUrl": null,
    "usedAt": null,
-   "lastSeen": "2026-10-16",
+   "lastSeen": "2026-10-24",
    "vendorItemId": "95937024229"
   },
   "n:네이쳐리빙클린비사선컷팅테이프클리너세트": {
@@ -900,12 +1063,28 @@
      "review": 2292,
      "rating": 4.5,
      "keyword": "강아지 휴대용 물통"
+    },
+    {
+     "date": "2026-10-23",
+     "rank": 1,
+     "price": 4860,
+     "review": 2321,
+     "rating": 4.5,
+     "keyword": "강아지 휴대용 물통"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 1,
+     "price": 4860,
+     "review": 2324,
+     "rating": 4.5,
+     "keyword": "강아지 휴대용 물통"
     }
    ],
    "videoStatus": "미생성",
    "postUrl": null,
    "usedAt": null,
-   "lastSeen": "2026-10-16",
+   "lastSeen": "2026-10-24",
    "vendorItemId": "87474386307"
   },
   "n:탐사강아지물통핑크": {
@@ -1018,12 +1197,28 @@
      "review": 1739,
      "rating": 4.5,
      "keyword": "강아지 휴대용 물통"
+    },
+    {
+     "date": "2026-10-23",
+     "rank": 7,
+     "price": 6600,
+     "review": 1742,
+     "rating": 4.5,
+     "keyword": "강아지 휴대용 물통"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 7,
+     "price": 6600,
+     "review": 1742,
+     "rating": 4.5,
+     "keyword": "강아지 휴대용 물통"
     }
    ],
    "videoStatus": "미생성",
    "postUrl": null,
    "usedAt": null,
-   "lastSeen": "2026-10-16",
+   "lastSeen": "2026-10-24",
    "vendorItemId": "82211764974"
   },
   "n:딩동펫휴대용버튼식물병풉백": {
@@ -1114,13 +1309,29 @@
      "review": 352,
      "rating": 4.5,
      "keyword": "노즈워크 장난감"
+    },
+    {
+     "date": "2026-10-23",
+     "rank": 1,
+     "price": 3000,
+     "review": 387,
+     "rating": 4.5,
+     "keyword": "노즈워크 장난감"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 1,
+     "price": 2910,
+     "review": 390,
+     "rating": 4.5,
+     "keyword": "노즈워크 장난감"
     }
    ],
    "videoStatus": "미생성",
    "postUrl": null,
    "usedAt": null,
-   "lastSeen": "2026-10-16",
-   "vendorItemId": "95777368866"
+   "lastSeen": "2026-10-24",
+   "vendorItemId": "96216828786"
   },
   "9562725164": {
    "id": "9562725164",
@@ -1144,12 +1355,28 @@
      "review": 184,
      "rating": 4,
      "keyword": "노즈워크 장난감"
+    },
+    {
+     "date": "2026-10-23",
+     "rank": 5,
+     "price": 9990,
+     "review": 202,
+     "rating": 4,
+     "keyword": "노즈워크 장난감"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 5,
+     "price": 9990,
+     "review": 203,
+     "rating": 4.0,
+     "keyword": "노즈워크 장난감"
     }
    ],
    "videoStatus": "미생성",
    "postUrl": null,
    "usedAt": null,
-   "lastSeen": "2026-10-16",
+   "lastSeen": "2026-10-24",
    "vendorItemId": "95482634922"
   },
   "n:코코판다오리팡러버덕노즈워크간식장난감": {
@@ -1196,12 +1423,28 @@
      "review": 1547,
      "rating": 4.5,
      "keyword": "노즈워크 장난감"
+    },
+    {
+     "date": "2026-10-23",
+     "rank": 6,
+     "price": 8000,
+     "review": 1557,
+     "rating": 4.5,
+     "keyword": "노즈워크 장난감"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 6,
+     "price": 8000,
+     "review": 1560,
+     "rating": 4.5,
+     "keyword": "노즈워크 장난감"
     }
    ],
    "videoStatus": "미생성",
    "postUrl": null,
    "usedAt": null,
-   "lastSeen": "2026-10-16",
+   "lastSeen": "2026-10-24",
    "vendorItemId": "90842129381"
   },
   "95504742": {
@@ -1226,12 +1469,28 @@
      "review": 9127,
      "rating": 4.5,
      "keyword": "노즈워크 장난감"
+    },
+    {
+     "date": "2026-10-23",
+     "rank": 7,
+     "price": 6880,
+     "review": 9141,
+     "rating": 4.5,
+     "keyword": "노즈워크 장난감"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 7,
+     "price": 7300,
+     "review": 9145,
+     "rating": 4.5,
+     "keyword": "노즈워크 장난감"
     }
    ],
    "videoStatus": "미생성",
    "postUrl": null,
    "usedAt": null,
-   "lastSeen": "2026-10-16",
+   "lastSeen": "2026-10-24",
    "vendorItemId": "3724976215"
   },
   "4399641177": {
@@ -1256,12 +1515,28 @@
      "review": 2985,
      "rating": 4.5,
      "keyword": "노즈워크 장난감"
+    },
+    {
+     "date": "2026-10-23",
+     "rank": 9,
+     "price": 6510,
+     "review": 3001,
+     "rating": 4.5,
+     "keyword": "노즈워크 장난감"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 9,
+     "price": 4830,
+     "review": 3004,
+     "rating": 4.5,
+     "keyword": "노즈워크 장난감"
     }
    ],
    "videoStatus": "미생성",
    "postUrl": null,
    "usedAt": null,
-   "lastSeen": "2026-10-16",
+   "lastSeen": "2026-10-24",
    "vendorItemId": "74364924056"
   },
   "n:포우퀘스트아보카도노즈워크오뚝이레벨3": {
@@ -1308,12 +1583,20 @@
      "review": 767,
      "rating": 5,
      "keyword": "노즈워크 장난감"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 10,
+     "price": 5670,
+     "review": 784,
+     "rating": 5.0,
+     "keyword": "노즈워크 장난감"
     }
    ],
    "videoStatus": "미생성",
    "postUrl": null,
    "usedAt": null,
-   "lastSeen": "2026-10-16",
+   "lastSeen": "2026-10-24",
    "vendorItemId": "89850051466"
   },
   "7324769879": {
@@ -1330,12 +1613,28 @@
      "review": 5247,
      "rating": 5,
      "keyword": "강아지 털제거기"
+    },
+    {
+     "date": "2026-10-23",
+     "rank": 2,
+     "price": 11990,
+     "review": 5327,
+     "rating": 5,
+     "keyword": "강아지 털제거기"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 2,
+     "price": 11990,
+     "review": 5333,
+     "rating": 5.0,
+     "keyword": "강아지 털제거기"
     }
    ],
    "videoStatus": "미생성",
    "postUrl": null,
    "usedAt": null,
-   "lastSeen": "2026-10-16",
+   "lastSeen": "2026-10-24",
    "vendorItemId": "85924809204"
   },
   "1361130121": {
@@ -1352,13 +1651,30 @@
      "review": 17368,
      "rating": 5,
      "keyword": "강아지 털제거기"
+    },
+    {
+     "date": "2026-10-23",
+     "rank": 6,
+     "price": 11900,
+     "review": 17401,
+     "rating": 5,
+     "keyword": "강아지 털제거기"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 7,
+     "price": 11900,
+     "review": 17412,
+     "rating": 5.0,
+     "keyword": "강아지 털제거기"
     }
    ],
-   "videoStatus": "미생성",
+   "videoStatus": "생성",
    "postUrl": null,
-   "usedAt": null,
-   "lastSeen": "2026-10-16",
-   "vendorItemId": "70387776610"
+   "usedAt": "2026-10-21",
+   "lastSeen": "2026-10-24",
+   "vendorItemId": "70387776610",
+   "slug": "2026-10-21_homenme_roller"
   },
   "7078157308": {
    "id": "7078157308",
@@ -1374,12 +1690,28 @@
      "review": 1976,
      "rating": 4.5,
      "keyword": "강아지 털제거기"
+    },
+    {
+     "date": "2026-10-23",
+     "rank": 8,
+     "price": 6900,
+     "review": 1998,
+     "rating": 4.5,
+     "keyword": "강아지 털제거기"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 8,
+     "price": 6900,
+     "review": 2003,
+     "rating": 4.5,
+     "keyword": "강아지 털제거기"
     }
    ],
    "videoStatus": "미생성",
    "postUrl": null,
    "usedAt": null,
-   "lastSeen": "2026-10-16",
+   "lastSeen": "2026-10-24",
    "vendorItemId": "84765881746"
   },
   "8987678740": {
@@ -1418,12 +1750,28 @@
      "review": 34942,
      "rating": 5,
      "keyword": "강아지 털제거기"
+    },
+    {
+     "date": "2026-10-23",
+     "rank": 3,
+     "price": 10860,
+     "review": 35035,
+     "rating": 5,
+     "keyword": "강아지 털제거기"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 3,
+     "price": 10860,
+     "review": 35053,
+     "rating": 5.0,
+     "keyword": "강아지 털제거기"
     }
    ],
    "videoStatus": "미생성",
    "postUrl": null,
    "usedAt": null,
-   "lastSeen": "2026-10-16",
+   "lastSeen": "2026-10-24",
    "vendorItemId": "71096022964"
   },
   "9617464947": {
@@ -1462,12 +1810,28 @@
      "review": 497,
      "rating": 5,
      "keyword": "강아지 자동급식기"
+    },
+    {
+     "date": "2026-10-23",
+     "rank": 4,
+     "price": 59900,
+     "review": 513,
+     "rating": 5,
+     "keyword": "강아지 자동급식기"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 4,
+     "price": 59900,
+     "review": 513,
+     "rating": 5.0,
+     "keyword": "강아지 자동급식기"
     }
    ],
    "videoStatus": "미생성",
    "postUrl": null,
    "usedAt": null,
-   "lastSeen": "2026-10-16",
+   "lastSeen": "2026-10-24",
    "vendorItemId": "93999151657"
   },
   "9358077614": {
@@ -1484,12 +1848,28 @@
      "review": 274,
      "rating": 4.5,
      "keyword": "강아지 자동급식기"
+    },
+    {
+     "date": "2026-10-23",
+     "rank": 6,
+     "price": 32800,
+     "review": 284,
+     "rating": 4.5,
+     "keyword": "강아지 자동급식기"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 6,
+     "price": 32800,
+     "review": 285,
+     "rating": 4.5,
+     "keyword": "강아지 자동급식기"
     }
    ],
    "videoStatus": "미생성",
    "postUrl": null,
    "usedAt": null,
-   "lastSeen": "2026-10-16",
+   "lastSeen": "2026-10-24",
    "vendorItemId": "94734108312"
   },
   "8999714855": {
@@ -1506,18 +1886,26 @@
      "review": 189,
      "rating": 4.5,
      "keyword": "강아지 자동급식기"
+    },
+    {
+     "date": "2026-10-23",
+     "rank": 10,
+     "price": 72560,
+     "review": 196,
+     "rating": 4.5,
+     "keyword": "강아지 자동급식기"
     }
    ],
    "videoStatus": "미생성",
    "postUrl": null,
    "usedAt": null,
-   "lastSeen": "2026-10-16",
+   "lastSeen": "2026-10-23",
    "vendorItemId": "94783312783"
   },
   "8024802277": {
    "id": "8024802277",
    "productId": "8024802277",
-   "name": "페블펫 와이파이 앱연동 강아지 고양이 애견 대용량 3.5L 스마트 자동급식기 IPF-W100, 1개",
+   "name": "페블펫 와이파이 앱연동 강아지 고양이 애견 대용량 3.5L 스마트 자동급식기 IPF-W100, 1개, 화이트",
    "keyword": "강아지 자동급식기",
    "firstSeen": "2026-10-16",
    "history": [
@@ -1528,12 +1916,28 @@
      "review": 688,
      "rating": 5,
      "keyword": "강아지 자동급식기"
+    },
+    {
+     "date": "2026-10-23",
+     "rank": 7,
+     "price": 59000,
+     "review": 691,
+     "rating": 5,
+     "keyword": "강아지 자동급식기"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 8,
+     "price": 59000,
+     "review": 691,
+     "rating": 5.0,
+     "keyword": "강아지 자동급식기"
     }
    ],
    "videoStatus": "미생성",
    "postUrl": null,
    "usedAt": null,
-   "lastSeen": "2026-10-16",
+   "lastSeen": "2026-10-24",
    "vendorItemId": "89610242312"
   },
   "8326512700": {
@@ -1550,12 +1954,28 @@
      "review": 1031,
      "rating": 4.5,
      "keyword": "강아지 자동급수기"
+    },
+    {
+     "date": "2026-10-23",
+     "rank": 3,
+     "price": 19870,
+     "review": 1048,
+     "rating": 4.5,
+     "keyword": "강아지 자동급수기"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 3,
+     "price": 19870,
+     "review": 1051,
+     "rating": 4.5,
+     "keyword": "강아지 자동급수기"
     }
    ],
    "videoStatus": "미생성",
    "postUrl": null,
    "usedAt": null,
-   "lastSeen": "2026-10-16",
+   "lastSeen": "2026-10-24",
    "vendorItemId": "91009951333"
   },
   "9162101031": {
@@ -1572,12 +1992,28 @@
      "review": 322,
      "rating": 4.5,
      "keyword": "강아지 자동급수기"
+    },
+    {
+     "date": "2026-10-23",
+     "rank": 4,
+     "price": 11900,
+     "review": 338,
+     "rating": 4.5,
+     "keyword": "강아지 자동급수기"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 4,
+     "price": 11900,
+     "review": 339,
+     "rating": 4.5,
+     "keyword": "강아지 자동급수기"
     }
    ],
    "videoStatus": "미생성",
    "postUrl": null,
    "usedAt": null,
-   "lastSeen": "2026-10-16",
+   "lastSeen": "2026-10-24",
    "vendorItemId": "93957985707"
   },
   "7900251213": {
@@ -1594,12 +2030,28 @@
      "review": 1290,
      "rating": 4.5,
      "keyword": "강아지 자동급수기"
+    },
+    {
+     "date": "2026-10-23",
+     "rank": 6,
+     "price": 19900,
+     "review": 1304,
+     "rating": 4.5,
+     "keyword": "강아지 자동급수기"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 6,
+     "price": 19900,
+     "review": 1306,
+     "rating": 4.5,
+     "keyword": "강아지 자동급수기"
     }
    ],
    "videoStatus": "미생성",
    "postUrl": null,
    "usedAt": null,
-   "lastSeen": "2026-10-16",
+   "lastSeen": "2026-10-24",
    "vendorItemId": "88742620717"
   },
   "7537092645": {
@@ -1616,12 +2068,28 @@
      "review": 502,
      "rating": 4.5,
      "keyword": "강아지 자동급수기"
+    },
+    {
+     "date": "2026-10-23",
+     "rank": 8,
+     "price": 34000,
+     "review": 511,
+     "rating": 4.5,
+     "keyword": "강아지 자동급수기"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 9,
+     "price": 32300,
+     "review": 513,
+     "rating": 4.5,
+     "keyword": "강아지 자동급수기"
     }
    ],
    "videoStatus": "미생성",
    "postUrl": null,
    "usedAt": null,
-   "lastSeen": "2026-10-16",
+   "lastSeen": "2026-10-24",
    "vendorItemId": "90924915879"
   },
   "9708916913": {
@@ -1638,12 +2106,28 @@
      "review": 52,
      "rating": 5,
      "keyword": "강아지 자동급수기"
+    },
+    {
+     "date": "2026-10-23",
+     "rank": 9,
+     "price": 12500,
+     "review": 59,
+     "rating": 4.5,
+     "keyword": "강아지 자동급수기"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 10,
+     "price": 12500,
+     "review": 59,
+     "rating": 4.5,
+     "keyword": "강아지 자동급수기"
     }
    ],
    "videoStatus": "미생성",
    "postUrl": null,
    "usedAt": null,
-   "lastSeen": "2026-10-16",
+   "lastSeen": "2026-10-24",
    "vendorItemId": "95983822344"
   },
   "9355586905": {
@@ -1662,11 +2146,12 @@
      "keyword": "강아지 자동급수기"
     }
    ],
-   "videoStatus": "미생성",
+   "videoStatus": "생성",
    "postUrl": null,
-   "usedAt": null,
+   "usedAt": "2026-10-21",
    "lastSeen": "2026-10-16",
-   "vendorItemId": "91955613697"
+   "vendorItemId": "91955613697",
+   "slug": "2026-10-19_bonyren_water"
   },
   "8528673640": {
    "id": "8528673640",
@@ -1748,12 +2233,28 @@
      "review": 701,
      "rating": 4.5,
      "keyword": "노즈워크 장난감"
+    },
+    {
+     "date": "2026-10-23",
+     "rank": 3,
+     "price": 4600,
+     "review": 717,
+     "rating": 4.5,
+     "keyword": "노즈워크 장난감"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 3,
+     "price": 4600,
+     "review": 718,
+     "rating": 4.5,
+     "keyword": "노즈워크 장난감"
     }
    ],
    "videoStatus": "미생성",
    "postUrl": null,
    "usedAt": null,
-   "lastSeen": "2026-10-16",
+   "lastSeen": "2026-10-24",
    "vendorItemId": "95143449209"
   },
   "8403641416": {
@@ -1770,12 +2271,28 @@
      "review": 1565,
      "rating": 4.5,
      "keyword": "노즈워크 장난감"
+    },
+    {
+     "date": "2026-10-23",
+     "rank": 8,
+     "price": 26800,
+     "review": 1580,
+     "rating": 4.5,
+     "keyword": "노즈워크 장난감"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 8,
+     "price": 26800,
+     "review": 1580,
+     "rating": 4.5,
+     "keyword": "노즈워크 장난감"
     }
    ],
    "videoStatus": "미생성",
    "postUrl": null,
    "usedAt": null,
-   "lastSeen": "2026-10-16",
+   "lastSeen": "2026-10-24",
    "vendorItemId": "91309171017"
   },
   "9683586380": {
@@ -1792,12 +2309,20 @@
      "review": 197,
      "rating": 4.5,
      "keyword": "노즈워크 장난감"
+    },
+    {
+     "date": "2026-10-23",
+     "rank": 10,
+     "price": 8500,
+     "review": 201,
+     "rating": 4.5,
+     "keyword": "노즈워크 장난감"
     }
    ],
    "videoStatus": "미생성",
    "postUrl": null,
    "usedAt": null,
-   "lastSeen": "2026-10-16",
+   "lastSeen": "2026-10-23",
    "vendorItemId": "94501008107"
   },
   "8147489872": {
@@ -1814,12 +2339,28 @@
      "review": 432,
      "rating": 4.5,
      "keyword": "강아지 휴대용 물통"
+    },
+    {
+     "date": "2026-10-23",
+     "rank": 3,
+     "price": 9200,
+     "review": 435,
+     "rating": 4.5,
+     "keyword": "강아지 휴대용 물통"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 3,
+     "price": 9200,
+     "review": 435,
+     "rating": 4.5,
+     "keyword": "강아지 휴대용 물통"
     }
    ],
    "videoStatus": "미생성",
    "postUrl": null,
    "usedAt": null,
-   "lastSeen": "2026-10-16",
+   "lastSeen": "2026-10-24",
    "vendorItemId": "90204316259"
   },
   "8277259100": {
@@ -1836,12 +2377,28 @@
      "review": 1194,
      "rating": 4.5,
      "keyword": "강아지 휴대용 물통"
+    },
+    {
+     "date": "2026-10-23",
+     "rank": 6,
+     "price": 5980,
+     "review": 1203,
+     "rating": 4.5,
+     "keyword": "강아지 휴대용 물통"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 6,
+     "price": 5980,
+     "review": 1203,
+     "rating": 4.5,
+     "keyword": "강아지 휴대용 물통"
     }
    ],
    "videoStatus": "미생성",
    "postUrl": null,
    "usedAt": null,
-   "lastSeen": "2026-10-16",
+   "lastSeen": "2026-10-24",
    "vendorItemId": "95255324760"
   },
   "8384441620": {
@@ -1858,12 +2415,28 @@
      "review": 217,
      "rating": 5,
      "keyword": "강아지 휴대용 물통"
+    },
+    {
+     "date": "2026-10-23",
+     "rank": 5,
+     "price": 10800,
+     "review": 223,
+     "rating": 4.5,
+     "keyword": "강아지 휴대용 물통"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 5,
+     "price": 11100,
+     "review": 225,
+     "rating": 5.0,
+     "keyword": "강아지 휴대용 물통"
     }
    ],
    "videoStatus": "미생성",
    "postUrl": null,
    "usedAt": null,
-   "lastSeen": "2026-10-16",
+   "lastSeen": "2026-10-24",
    "vendorItemId": "92787165138"
   },
   "9690631234": {
@@ -1880,12 +2453,28 @@
      "review": 203,
      "rating": 5,
      "keyword": "강아지 휴대용 물통"
+    },
+    {
+     "date": "2026-10-23",
+     "rank": 4,
+     "price": 11800,
+     "review": 204,
+     "rating": 5,
+     "keyword": "강아지 휴대용 물통"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 4,
+     "price": 11800,
+     "review": 205,
+     "rating": 5.0,
+     "keyword": "강아지 휴대용 물통"
     }
    ],
    "videoStatus": "미생성",
    "postUrl": null,
    "usedAt": null,
-   "lastSeen": "2026-10-16",
+   "lastSeen": "2026-10-24",
    "vendorItemId": "94984633918"
   },
   "6079402446": {
@@ -1902,12 +2491,28 @@
      "review": 9500,
      "rating": 4.5,
      "keyword": "강아지 휴대용 물통"
+    },
+    {
+     "date": "2026-10-23",
+     "rank": 8,
+     "price": 5700,
+     "review": 9504,
+     "rating": 4.5,
+     "keyword": "강아지 휴대용 물통"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 8,
+     "price": 5700,
+     "review": 9504,
+     "rating": 4.5,
+     "keyword": "강아지 휴대용 물통"
     }
    ],
    "videoStatus": "미생성",
    "postUrl": null,
    "usedAt": null,
-   "lastSeen": "2026-10-16",
+   "lastSeen": "2026-10-24",
    "vendorItemId": "3670421205"
   },
   "5647103950": {
@@ -1924,12 +2529,28 @@
      "review": 1038,
      "rating": 4.5,
      "keyword": "강아지 휴대용 물통"
+    },
+    {
+     "date": "2026-10-23",
+     "rank": 9,
+     "price": 9900,
+     "review": 1044,
+     "rating": 4.5,
+     "keyword": "강아지 휴대용 물통"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 9,
+     "price": 9900,
+     "review": 1044,
+     "rating": 4.5,
+     "keyword": "강아지 휴대용 물통"
     }
    ],
    "videoStatus": "미생성",
    "postUrl": null,
    "usedAt": null,
-   "lastSeen": "2026-10-16",
+   "lastSeen": "2026-10-24",
    "vendorItemId": "76515998420"
   },
   "9478841526": {
@@ -1990,12 +2611,28 @@
      "review": 1081,
      "rating": 5,
      "keyword": "강아지 털빗"
+    },
+    {
+     "date": "2026-10-23",
+     "rank": 2,
+     "price": 6200,
+     "review": 1104,
+     "rating": 5,
+     "keyword": "강아지 털빗"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 2,
+     "price": 6200,
+     "review": 1110,
+     "rating": 5.0,
+     "keyword": "강아지 털빗"
     }
    ],
    "videoStatus": "미생성",
    "postUrl": null,
    "usedAt": null,
-   "lastSeen": "2026-10-16",
+   "lastSeen": "2026-10-24",
    "vendorItemId": "91295669441"
   },
   "9638605736": {
@@ -2012,12 +2649,28 @@
      "review": 196,
      "rating": 4.5,
      "keyword": "강아지 털빗"
+    },
+    {
+     "date": "2026-10-23",
+     "rank": 3,
+     "price": 6900,
+     "review": 210,
+     "rating": 4.5,
+     "keyword": "강아지 털빗"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 3,
+     "price": 6900,
+     "review": 214,
+     "rating": 4.5,
+     "keyword": "강아지 털빗"
     }
    ],
    "videoStatus": "미생성",
    "postUrl": null,
    "usedAt": null,
-   "lastSeen": "2026-10-16",
+   "lastSeen": "2026-10-24",
    "vendorItemId": "96066488094"
   },
   "6237113432": {
@@ -2034,12 +2687,28 @@
      "review": 3358,
      "rating": 4.5,
      "keyword": "강아지 털빗"
+    },
+    {
+     "date": "2026-10-23",
+     "rank": 4,
+     "price": 6730,
+     "review": 3385,
+     "rating": 4.5,
+     "keyword": "강아지 털빗"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 4,
+     "price": 6730,
+     "review": 3389,
+     "rating": 4.5,
+     "keyword": "강아지 털빗"
     }
    ],
    "videoStatus": "미생성",
    "postUrl": null,
    "usedAt": null,
-   "lastSeen": "2026-10-16",
+   "lastSeen": "2026-10-24",
    "vendorItemId": "79835363146"
   },
   "8596043330": {
@@ -2056,12 +2725,28 @@
      "review": 2574,
      "rating": 4.5,
      "keyword": "강아지 털빗"
+    },
+    {
+     "date": "2026-10-23",
+     "rank": 5,
+     "price": 20900,
+     "review": 2597,
+     "rating": 4.5,
+     "keyword": "강아지 털빗"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 6,
+     "price": 20900,
+     "review": 2598,
+     "rating": 4.5,
+     "keyword": "강아지 털빗"
     }
    ],
    "videoStatus": "미생성",
    "postUrl": null,
    "usedAt": null,
-   "lastSeen": "2026-10-16",
+   "lastSeen": "2026-10-24",
    "vendorItemId": "95231624704"
   },
   "9291493413": {
@@ -2078,12 +2763,28 @@
      "review": 286,
      "rating": 4.5,
      "keyword": "강아지 털빗"
+    },
+    {
+     "date": "2026-10-23",
+     "rank": 7,
+     "price": 6300,
+     "review": 297,
+     "rating": 4.5,
+     "keyword": "강아지 털빗"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 8,
+     "price": 6700,
+     "review": 298,
+     "rating": 4.5,
+     "keyword": "강아지 털빗"
     }
    ],
    "videoStatus": "미생성",
    "postUrl": null,
    "usedAt": null,
-   "lastSeen": "2026-10-16",
+   "lastSeen": "2026-10-24",
    "vendorItemId": "94966295879"
   },
   "7771671077": {
@@ -2100,12 +2801,20 @@
      "review": 1673,
      "rating": 5,
      "keyword": "강아지 털빗"
+    },
+    {
+     "date": "2026-10-23",
+     "rank": 10,
+     "price": 7180,
+     "review": 1678,
+     "rating": 5,
+     "keyword": "강아지 털빗"
     }
    ],
    "videoStatus": "미생성",
    "postUrl": null,
    "usedAt": null,
-   "lastSeen": "2026-10-16",
+   "lastSeen": "2026-10-23",
    "vendorItemId": "88047550377"
   },
   "6697014892": {
@@ -2122,12 +2831,28 @@
      "review": 1769,
      "rating": 4.5,
      "keyword": "강아지 털빗"
+    },
+    {
+     "date": "2026-10-23",
+     "rank": 6,
+     "price": 14840,
+     "review": 1775,
+     "rating": 4.5,
+     "keyword": "강아지 털빗"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 5,
+     "price": 14840,
+     "review": 1777,
+     "rating": 4.5,
+     "keyword": "강아지 털빗"
     }
    ],
    "videoStatus": "미생성",
    "postUrl": null,
    "usedAt": null,
-   "lastSeen": "2026-10-16",
+   "lastSeen": "2026-10-24",
    "vendorItemId": "82716987296"
   },
   "8691305106": {
@@ -2144,12 +2869,28 @@
      "review": 2086,
      "rating": 5,
      "keyword": "강아지 털빗"
+    },
+    {
+     "date": "2026-10-23",
+     "rank": 8,
+     "price": 32850,
+     "review": 2097,
+     "rating": 5,
+     "keyword": "강아지 털빗"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 7,
+     "price": 32850,
+     "review": 2099,
+     "rating": 5.0,
+     "keyword": "강아지 털빗"
     }
    ],
    "videoStatus": "미생성",
    "postUrl": null,
    "usedAt": null,
-   "lastSeen": "2026-10-16",
+   "lastSeen": "2026-10-24",
    "vendorItemId": "76017005719"
   },
   "26968424": {
@@ -2166,12 +2907,20 @@
      "review": 4734,
      "rating": 4.5,
      "keyword": "강아지 털빗"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 9,
+     "price": 7700,
+     "review": 4749,
+     "rating": 4.5,
+     "keyword": "강아지 털빗"
     }
    ],
    "videoStatus": "미생성",
    "postUrl": null,
    "usedAt": null,
-   "lastSeen": "2026-10-16",
+   "lastSeen": "2026-10-24",
    "vendorItemId": "3199043310"
   },
   "8487404030": {
@@ -2188,18 +2937,34 @@
      "review": 13656,
      "rating": 5,
      "keyword": "강아지 간식"
+    },
+    {
+     "date": "2026-10-23",
+     "rank": 1,
+     "price": 9890,
+     "review": 14051,
+     "rating": 5,
+     "keyword": "강아지 간식"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 1,
+     "price": 9890,
+     "review": 14095,
+     "rating": 5.0,
+     "keyword": "강아지 간식"
     }
    ],
    "videoStatus": "미생성",
    "postUrl": null,
    "usedAt": null,
-   "lastSeen": "2026-10-16",
+   "lastSeen": "2026-10-24",
    "vendorItemId": "91576053521"
   },
   "6070980773": {
    "id": "6070980773",
    "productId": "6070980773",
-   "name": "동원뉴트리플랜 고양이 간식 습식캔, 혼합맛(흰살참치/닭가슴살), 160g, 24개",
+   "name": "동원뉴트리플랜 고양이 간식 습식캔, 가다랑어, 160g, 24개",
    "keyword": "고양이 간식",
    "firstSeen": "2026-10-16",
    "history": [
@@ -2210,12 +2975,28 @@
      "review": 50211,
      "rating": 5,
      "keyword": "고양이 간식"
+    },
+    {
+     "date": "2026-10-23",
+     "rank": 4,
+     "price": 21500,
+     "review": 27112,
+     "rating": 5,
+     "keyword": "고양이 간식"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 5,
+     "price": 21500,
+     "review": 26857,
+     "rating": 5.0,
+     "keyword": "고양이 간식"
     }
    ],
    "videoStatus": "미생성",
    "postUrl": null,
    "usedAt": null,
-   "lastSeen": "2026-10-16",
+   "lastSeen": "2026-10-24",
    "vendorItemId": "94774194653"
   },
   "62318395": {
@@ -2232,12 +3013,28 @@
      "review": 75264,
      "rating": 5,
      "keyword": "강아지 사료"
+    },
+    {
+     "date": "2026-10-23",
+     "rank": 1,
+     "price": 15990,
+     "review": 75673,
+     "rating": 5,
+     "keyword": "강아지 사료"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 1,
+     "price": 15990,
+     "review": 75725,
+     "rating": 5.0,
+     "keyword": "강아지 사료"
     }
    ],
    "videoStatus": "미생성",
    "postUrl": null,
    "usedAt": null,
-   "lastSeen": "2026-10-16",
+   "lastSeen": "2026-10-24",
    "vendorItemId": "70248727064"
   },
   "8615130283": {
@@ -2254,13 +3051,32 @@
      "review": 143275,
      "rating": 5,
      "keyword": "고양이 사료"
+    },
+    {
+     "date": "2026-10-23",
+     "rank": 1,
+     "price": 16700,
+     "review": 151781,
+     "rating": 5,
+     "keyword": "고양이 사료"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 1,
+     "price": 16000,
+     "review": 151976,
+     "rating": 5.0,
+     "keyword": "고양이 사료"
     }
    ],
-   "videoStatus": "미생성",
-   "postUrl": null,
-   "usedAt": null,
-   "lastSeen": "2026-10-16",
-   "vendorItemId": "70734097621"
+   "videoStatus": "생성",
+   "postUrl": "https://youtube.com/shorts/KhF_URfZm0c",
+   "usedAt": "2026-10-23",
+   "lastSeen": "2026-10-24",
+   "vendorItemId": "70734097621",
+   "postedAt": "2026-10-23",
+   "deepLink": "https://link.coupang.com/a/h4zv1PrWiO",
+   "excluded": "F2 식품 기능 면역/항산화 + 소재 중복(10-22)"
   },
   "108459480": {
    "id": "108459480",
@@ -2276,12 +3092,28 @@
      "review": 30359,
      "rating": 5,
      "keyword": "강아지 간식"
+    },
+    {
+     "date": "2026-10-23",
+     "rank": 2,
+     "price": 6000,
+     "review": 30640,
+     "rating": 5,
+     "keyword": "강아지 간식"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 2,
+     "price": 6000,
+     "review": 30669,
+     "rating": 5.0,
+     "keyword": "강아지 간식"
     }
    ],
    "videoStatus": "미생성",
    "postUrl": null,
    "usedAt": null,
-   "lastSeen": "2026-10-16",
+   "lastSeen": "2026-10-24",
    "vendorItemId": "94362381603"
   },
   "4802816": {
@@ -2298,13 +3130,30 @@
      "review": 59220,
      "rating": 5,
      "keyword": "고양이 간식"
+    },
+    {
+     "date": "2026-10-23",
+     "rank": 2,
+     "price": 21450,
+     "review": 59092,
+     "rating": 5,
+     "keyword": "고양이 간식"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 2,
+     "price": 21450,
+     "review": 59155,
+     "rating": 5.0,
+     "keyword": "고양이 간식"
     }
    ],
    "videoStatus": "미생성",
    "postUrl": null,
    "usedAt": null,
-   "lastSeen": "2026-10-16",
-   "vendorItemId": "3031995638"
+   "lastSeen": "2026-10-24",
+   "vendorItemId": "94285125053",
+   "excluded": "F2 식품 기능 면역력 강화"
   },
   "7912980135": {
    "id": "7912980135",
@@ -2320,12 +3169,28 @@
      "review": 25583,
      "rating": 5,
      "keyword": "강아지 사료"
+    },
+    {
+     "date": "2026-10-23",
+     "rank": 2,
+     "price": 30390,
+     "review": 25700,
+     "rating": 5,
+     "keyword": "강아지 사료"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 2,
+     "price": 30230,
+     "review": 25723,
+     "rating": 5.0,
+     "keyword": "강아지 사료"
     }
    ],
    "videoStatus": "게시",
    "postUrl": "https://youtube.com/shorts/zX82sLRtAtY",
    "usedAt": "2026-10-16",
-   "lastSeen": "2026-10-16",
+   "lastSeen": "2026-10-24",
    "vendorItemId": "4116327396",
    "slug": "2026-10-16_now_smallbreed_food",
    "coupangIds": {
@@ -2351,7 +3216,7 @@
   "9239525189": {
    "id": "9239525189",
    "productId": "9239525189",
-   "name": "캐츠랑 전연령 고양이 비타플러스 건식사료, 닭, 2kg, 1개",
+   "name": "캐츠랑 전연령 고양이 비타플러스 건식사료, 면역/항산화, 2kg, 1개",
    "keyword": "고양이 사료",
    "firstSeen": "2026-10-16",
    "history": [
@@ -2362,12 +3227,28 @@
      "review": 60981,
      "rating": 5,
      "keyword": "고양이 사료"
+    },
+    {
+     "date": "2026-10-23",
+     "rank": 2,
+     "price": 9540,
+     "review": 60743,
+     "rating": 5,
+     "keyword": "고양이 사료"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 2,
+     "price": 9560,
+     "review": 60817,
+     "rating": 5.0,
+     "keyword": "고양이 사료"
     }
    ],
    "videoStatus": "미생성",
    "postUrl": null,
    "usedAt": null,
-   "lastSeen": "2026-10-16",
+   "lastSeen": "2026-10-24",
    "vendorItemId": "70734097756"
   },
   "9456947062": {
@@ -2384,12 +3265,28 @@
      "review": 70522,
      "rating": 5,
      "keyword": "강아지 간식"
+    },
+    {
+     "date": "2026-10-23",
+     "rank": 3,
+     "price": 8050,
+     "review": 70833,
+     "rating": 5,
+     "keyword": "강아지 간식"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 3,
+     "price": 10350,
+     "review": 70872,
+     "rating": 5.0,
+     "keyword": "강아지 간식"
     }
    ],
    "videoStatus": "미생성",
    "postUrl": null,
    "usedAt": null,
-   "lastSeen": "2026-10-16",
+   "lastSeen": "2026-10-24",
    "vendorItemId": "3707467639"
   },
   "7170134497": {
@@ -2406,12 +3303,28 @@
      "review": 37022,
      "rating": 5,
      "keyword": "강아지 사료"
+    },
+    {
+     "date": "2026-10-23",
+     "rank": 3,
+     "price": 9400,
+     "review": 37351,
+     "rating": 5,
+     "keyword": "강아지 사료"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 3,
+     "price": 9400,
+     "review": 37415,
+     "rating": 5.0,
+     "keyword": "강아지 사료"
     }
    ],
    "videoStatus": "미생성",
    "postUrl": null,
    "usedAt": null,
-   "lastSeen": "2026-10-16",
+   "lastSeen": "2026-10-24",
    "vendorItemId": "3000148538"
   },
   "66936708": {
@@ -2428,12 +3341,28 @@
      "review": 16427,
      "rating": 5,
      "keyword": "강아지 간식"
+    },
+    {
+     "date": "2026-10-23",
+     "rank": 3,
+     "price": 9110,
+     "review": 16666,
+     "rating": 5,
+     "keyword": "고양이 간식"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 3,
+     "price": 9120,
+     "review": 16700,
+     "rating": 5.0,
+     "keyword": "고양이 간식"
     }
    ],
    "videoStatus": "미생성",
    "postUrl": null,
    "usedAt": null,
-   "lastSeen": "2026-10-16",
+   "lastSeen": "2026-10-24",
    "vendorItemId": "3546221593"
   },
   "7422500929": {
@@ -2450,13 +3379,29 @@
      "review": 10953,
      "rating": 5,
      "keyword": "강아지 사료"
+    },
+    {
+     "date": "2026-10-23",
+     "rank": 4,
+     "price": 25990,
+     "review": 11158,
+     "rating": 5,
+     "keyword": "강아지 사료"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 4,
+     "price": 25990,
+     "review": 11173,
+     "rating": 5.0,
+     "keyword": "강아지 사료"
     }
    ],
    "videoStatus": "미생성",
    "postUrl": null,
    "usedAt": null,
-   "lastSeen": "2026-10-16",
-   "vendorItemId": "95594975947"
+   "lastSeen": "2026-10-24",
+   "vendorItemId": "96075952523"
   },
   "8789487511": {
    "id": "8789487511",
@@ -2472,12 +3417,28 @@
      "review": 6050,
      "rating": 5,
      "keyword": "고양이 사료"
+    },
+    {
+     "date": "2026-10-23",
+     "rank": 4,
+     "price": 33490,
+     "review": 6249,
+     "rating": 5,
+     "keyword": "고양이 사료"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 5,
+     "price": 33490,
+     "review": 6282,
+     "rating": 5.0,
+     "keyword": "고양이 사료"
     }
    ],
    "videoStatus": "미생성",
    "postUrl": null,
    "usedAt": null,
-   "lastSeen": "2026-10-16",
+   "lastSeen": "2026-10-24",
    "vendorItemId": "92572038251"
   },
   "9616144397": {
@@ -2494,13 +3455,29 @@
      "review": 1084,
      "rating": 4.5,
      "keyword": "강아지 간식"
+    },
+    {
+     "date": "2026-10-23",
+     "rank": 6,
+     "price": 11890,
+     "review": 1161,
+     "rating": 4.5,
+     "keyword": "강아지 간식"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 6,
+     "price": 11900,
+     "review": 1168,
+     "rating": 4.5,
+     "keyword": "강아지 간식"
     }
    ],
    "videoStatus": "미생성",
    "postUrl": null,
    "usedAt": null,
-   "lastSeen": "2026-10-16",
-   "vendorItemId": "96014538999"
+   "lastSeen": "2026-10-24",
+   "vendorItemId": "96155680698"
   },
   "8463452569": {
    "id": "8463452569",
@@ -2516,12 +3493,28 @@
      "review": 9509,
      "rating": 5,
      "keyword": "고양이 간식"
+    },
+    {
+     "date": "2026-10-23",
+     "rank": 7,
+     "price": 9810,
+     "review": 8904,
+     "rating": 5,
+     "keyword": "강아지 간식"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 7,
+     "price": 10900,
+     "review": 8944,
+     "rating": 5.0,
+     "keyword": "강아지 간식"
     }
    ],
    "videoStatus": "미생성",
    "postUrl": null,
    "usedAt": null,
-   "lastSeen": "2026-10-16",
+   "lastSeen": "2026-10-24",
    "vendorItemId": "91499159062"
   },
   "6224528154": {
@@ -2538,12 +3531,28 @@
      "review": 25039,
      "rating": 5,
      "keyword": "강아지 사료"
+    },
+    {
+     "date": "2026-10-23",
+     "rank": 5,
+     "price": 17100,
+     "review": 25228,
+     "rating": 5,
+     "keyword": "강아지 사료"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 6,
+     "price": 17100,
+     "review": 25243,
+     "rating": 5.0,
+     "keyword": "강아지 사료"
     }
    ],
    "videoStatus": "미생성",
    "postUrl": null,
    "usedAt": null,
-   "lastSeen": "2026-10-16",
+   "lastSeen": "2026-10-24",
    "vendorItemId": "79744077664"
   },
   "8391635007": {
@@ -2560,13 +3569,30 @@
      "review": 12127,
      "rating": 5,
      "keyword": "고양이 사료"
+    },
+    {
+     "date": "2026-10-23",
+     "rank": 6,
+     "price": 39260,
+     "review": 12477,
+     "rating": 5,
+     "keyword": "고양이 사료"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 7,
+     "price": 39740,
+     "review": 12525,
+     "rating": 5.0,
+     "keyword": "고양이 사료"
     }
    ],
    "videoStatus": "미생성",
    "postUrl": null,
    "usedAt": null,
-   "lastSeen": "2026-10-16",
-   "vendorItemId": "91016112001"
+   "lastSeen": "2026-10-24",
+   "vendorItemId": "91016112001",
+   "excluded": "F2 식품 기능 면역/항산화"
   },
   "9742995659": {
    "id": "9742995659",
@@ -2582,12 +3608,28 @@
      "review": 19052,
      "rating": 5,
      "keyword": "고양이 간식"
+    },
+    {
+     "date": "2026-10-23",
+     "rank": 5,
+     "price": 12230,
+     "review": 19122,
+     "rating": 5,
+     "keyword": "고양이 간식"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 5,
+     "price": 12230,
+     "review": 19132,
+     "rating": 5.0,
+     "keyword": "고양이 간식"
     }
    ],
    "videoStatus": "미생성",
    "postUrl": null,
    "usedAt": null,
-   "lastSeen": "2026-10-16",
+   "lastSeen": "2026-10-24",
    "vendorItemId": "86950767895"
   },
   "6113370508": {
@@ -2604,12 +3646,28 @@
      "review": 64478,
      "rating": 5,
      "keyword": "고양이 사료"
+    },
+    {
+     "date": "2026-10-23",
+     "rank": 7,
+     "price": 15900,
+     "review": 65046,
+     "rating": 5,
+     "keyword": "고양이 사료"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 6,
+     "price": 15900,
+     "review": 65139,
+     "rating": 5.0,
+     "keyword": "고양이 사료"
     }
    ],
    "videoStatus": "미생성",
    "postUrl": null,
    "usedAt": null,
-   "lastSeen": "2026-10-16",
+   "lastSeen": "2026-10-24",
    "vendorItemId": "3116434329"
   },
   "6631842834": {
@@ -2626,12 +3684,20 @@
      "review": 22705,
      "rating": 5,
      "keyword": "강아지 간식"
+    },
+    {
+     "date": "2026-10-23",
+     "rank": 9,
+     "price": 12750,
+     "review": 22847,
+     "rating": 5,
+     "keyword": "강아지 간식"
     }
    ],
    "videoStatus": "미생성",
    "postUrl": null,
    "usedAt": null,
-   "lastSeen": "2026-10-16",
+   "lastSeen": "2026-10-23",
    "vendorItemId": "82343805562"
   },
   "8658163691": {
@@ -2648,12 +3714,28 @@
      "review": 7566,
      "rating": 4.5,
      "keyword": "고양이 간식"
+    },
+    {
+     "date": "2026-10-23",
+     "rank": 9,
+     "price": 21990,
+     "review": 7739,
+     "rating": 4.5,
+     "keyword": "고양이 간식"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 9,
+     "price": 21990,
+     "review": 7775,
+     "rating": 4.5,
+     "keyword": "고양이 간식"
     }
    ],
    "videoStatus": "미생성",
    "postUrl": null,
    "usedAt": null,
-   "lastSeen": "2026-10-16",
+   "lastSeen": "2026-10-24",
    "vendorItemId": "92128005900"
   },
   "9103336967": {
@@ -2670,13 +3752,29 @@
      "review": 10821,
      "rating": 5,
      "keyword": "강아지 사료"
+    },
+    {
+     "date": "2026-10-23",
+     "rank": 7,
+     "price": 39470,
+     "review": 10916,
+     "rating": 5,
+     "keyword": "강아지 사료"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 7,
+     "price": 39440,
+     "review": 10930,
+     "rating": 5.0,
+     "keyword": "강아지 사료"
     }
    ],
    "videoStatus": "미생성",
    "postUrl": null,
    "usedAt": null,
-   "lastSeen": "2026-10-16",
-   "vendorItemId": "90287519030"
+   "lastSeen": "2026-10-24",
+   "vendorItemId": "88655086308"
   },
   "8775876916": {
    "id": "8775876916",
@@ -2692,18 +3790,34 @@
      "review": 4716,
      "rating": 4.5,
      "keyword": "고양이 사료"
+    },
+    {
+     "date": "2026-10-23",
+     "rank": 5,
+     "price": 32980,
+     "review": 4867,
+     "rating": 4.5,
+     "keyword": "고양이 사료"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 4,
+     "price": 32980,
+     "review": 4907,
+     "rating": 4.5,
+     "keyword": "고양이 사료"
     }
    ],
    "videoStatus": "미생성",
    "postUrl": null,
    "usedAt": null,
-   "lastSeen": "2026-10-16",
-   "vendorItemId": "92801921139"
+   "lastSeen": "2026-10-24",
+   "vendorItemId": "92801037411"
   },
   "6810269534": {
    "id": "6810269534",
    "productId": "6810269534",
-   "name": "템테이션 고양이 스낵, 고소한 참치맛, 75g, 3개",
+   "name": "템테이션 고양이 메가팩 스낵 간식, 맛있는 닭고기맛, 160g, 3개",
    "keyword": "고양이 간식",
    "firstSeen": "2026-10-16",
    "history": [
@@ -2714,13 +3828,29 @@
      "review": 73551,
      "rating": 5,
      "keyword": "고양이 간식"
+    },
+    {
+     "date": "2026-10-23",
+     "rank": 7,
+     "price": 12660,
+     "review": 74344,
+     "rating": 5,
+     "keyword": "고양이 간식"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 6,
+     "price": 12570,
+     "review": 74450,
+     "rating": 5.0,
+     "keyword": "고양이 간식"
     }
    ],
    "videoStatus": "미생성",
    "postUrl": null,
    "usedAt": null,
-   "lastSeen": "2026-10-16",
-   "vendorItemId": "91444314771"
+   "lastSeen": "2026-10-24",
+   "vendorItemId": "70453444809"
   },
   "9287038199": {
    "id": "9287038199",
@@ -2736,12 +3866,28 @@
      "review": 4210,
      "rating": 4.5,
      "keyword": "강아지 사료"
+    },
+    {
+     "date": "2026-10-23",
+     "rank": 8,
+     "price": 27830,
+     "review": 4383,
+     "rating": 4.5,
+     "keyword": "강아지 사료"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 8,
+     "price": 27900,
+     "review": 4416,
+     "rating": 4.5,
+     "keyword": "강아지 사료"
     }
    ],
    "videoStatus": "미생성",
    "postUrl": null,
    "usedAt": null,
-   "lastSeen": "2026-10-16",
+   "lastSeen": "2026-10-24",
    "vendorItemId": "95051779947"
   },
   "7912980214": {
@@ -2758,12 +3904,28 @@
      "review": 54822,
      "rating": 5,
      "keyword": "고양이 사료"
+    },
+    {
+     "date": "2026-10-23",
+     "rank": 8,
+     "price": 35200,
+     "review": 55254,
+     "rating": 5,
+     "keyword": "고양이 사료"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 8,
+     "price": 35200,
+     "review": 55334,
+     "rating": 5.0,
+     "keyword": "고양이 사료"
     }
    ],
    "videoStatus": "미생성",
    "postUrl": null,
    "usedAt": null,
-   "lastSeen": "2026-10-16",
+   "lastSeen": "2026-10-24",
    "vendorItemId": "70373191035"
   },
   "8129382339": {
@@ -2780,12 +3942,20 @@
      "review": 15316,
      "rating": 5,
      "keyword": "강아지 간식"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 9,
+     "price": 13480,
+     "review": 15662,
+     "rating": 5.0,
+     "keyword": "강아지 간식"
     }
    ],
    "videoStatus": "미생성",
    "postUrl": null,
    "usedAt": null,
-   "lastSeen": "2026-10-16",
+   "lastSeen": "2026-10-24",
    "vendorItemId": "91045371315"
   },
   "13355779": {
@@ -2802,12 +3972,20 @@
      "review": 15765,
      "rating": 5,
      "keyword": "강아지 사료"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 10,
+     "price": 30230,
+     "review": 15866,
+     "rating": 5.0,
+     "keyword": "강아지 사료"
     }
    ],
    "videoStatus": "미생성",
    "postUrl": null,
    "usedAt": null,
-   "lastSeen": "2026-10-16",
+   "lastSeen": "2026-10-24",
    "vendorItemId": "4116329026"
   },
   "7912980413": {
@@ -2824,12 +4002,28 @@
      "review": 26719,
      "rating": 5,
      "keyword": "고양이 사료"
+    },
+    {
+     "date": "2026-10-23",
+     "rank": 10,
+     "price": 29920,
+     "review": 26881,
+     "rating": 5,
+     "keyword": "고양이 사료"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 10,
+     "price": 29920,
+     "review": 26904,
+     "rating": 5.0,
+     "keyword": "고양이 사료"
     }
    ],
    "videoStatus": "미생성",
    "postUrl": null,
    "usedAt": null,
-   "lastSeen": "2026-10-16",
+   "lastSeen": "2026-10-24",
    "vendorItemId": "70981877782"
   },
   "8428421353": {
@@ -2890,12 +4084,28 @@
      "review": 27359,
      "rating": 5,
      "keyword": "강아지 사료"
+    },
+    {
+     "date": "2026-10-23",
+     "rank": 10,
+     "price": 19960,
+     "review": 27477,
+     "rating": 5,
+     "keyword": "강아지 사료"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 9,
+     "price": 19240,
+     "review": 27489,
+     "rating": 5.0,
+     "keyword": "강아지 사료"
     }
    ],
    "videoStatus": "미생성",
    "postUrl": null,
    "usedAt": null,
-   "lastSeen": "2026-10-16",
+   "lastSeen": "2026-10-24",
    "vendorItemId": "5307507664"
   },
   "1785268681": {
@@ -2912,16 +4122,1288 @@
      "review": 36998,
      "rating": 5,
      "keyword": "고양이 사료"
+    },
+    {
+     "date": "2026-10-23",
+     "rank": 9,
+     "price": 9120,
+     "review": 37218,
+     "rating": 5,
+     "keyword": "고양이 사료"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 9,
+     "price": 9120,
+     "review": 37245,
+     "rating": 5.0,
+     "keyword": "고양이 사료"
     }
    ],
    "videoStatus": "미생성",
    "postUrl": null,
    "usedAt": null,
-   "lastSeen": "2026-10-16",
+   "lastSeen": "2026-10-24",
    "vendorItemId": "94595723789"
+  },
+  "8082859174": {
+   "id": "8082859174",
+   "productId": "8082859174",
+   "name": "펫리서치 짜먹는 고양이 간식 츄, 참치+연어+닭고기, 15g, 90개",
+   "keyword": "고양이 간식",
+   "firstSeen": "2026-10-23",
+   "history": [
+    {
+     "date": "2026-10-23",
+     "rank": 1,
+     "price": 12690,
+     "review": 13759,
+     "rating": 5,
+     "keyword": "고양이 간식"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 1,
+     "price": 12690,
+     "review": 13830,
+     "rating": 5.0,
+     "keyword": "고양이 간식"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-24",
+   "vendorItemId": "92059259071"
+  },
+  "8351355933": {
+   "id": "8351355933",
+   "productId": "8351355933",
+   "name": "딩동펫 반려동물 퓨어 심플 반자동 급수기 3.8L, 화이트, 1개",
+   "keyword": "강아지 자동급수기",
+   "firstSeen": "2026-10-23",
+   "history": [
+    {
+     "date": "2026-10-23",
+     "rank": 2,
+     "price": 7810,
+     "review": 1127,
+     "rating": 4.5,
+     "keyword": "강아지 자동급수기"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 2,
+     "price": 8300,
+     "review": 1128,
+     "rating": 4.5,
+     "keyword": "강아지 자동급수기"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-24",
+   "vendorItemId": "91146445122"
+  },
+  "9607567057": {
+   "id": "9607567057",
+   "productId": "9607567057",
+   "name": "탐사 강아지 당근밭 노즈워크 장난감 담요 매트, 주황색, 1개",
+   "keyword": "노즈워크 장난감",
+   "firstSeen": "2026-10-23",
+   "history": [
+    {
+     "date": "2026-10-23",
+     "rank": 4,
+     "price": 11970,
+     "review": 30,
+     "rating": 4.5,
+     "keyword": "노즈워크 장난감"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 4,
+     "price": 11970,
+     "review": 32,
+     "rating": 4.5,
+     "keyword": "노즈워크 장난감"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-24",
+   "vendorItemId": "95624044030"
+  },
+  "6529746843": {
+   "id": "6529746843",
+   "productId": "6529746843",
+   "name": "딩동펫 반려동물 반자동 애플 급수기, 그레이, 1개",
+   "keyword": "강아지 자동급수기",
+   "firstSeen": "2026-10-23",
+   "history": [
+    {
+     "date": "2026-10-23",
+     "rank": 5,
+     "price": 8460,
+     "review": 1526,
+     "rating": 4.5,
+     "keyword": "강아지 자동급수기"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 5,
+     "price": 9100,
+     "review": 1526,
+     "rating": 4.5,
+     "keyword": "강아지 자동급수기"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-24",
+   "vendorItemId": "70531647844"
+  },
+  "8438619701": {
+   "id": "8438619701",
+   "productId": "8438619701",
+   "name": "누터스가든 강아지 브러싱츄 치석제거 덴탈껌 100p, 고구마, 800g, 1개",
+   "keyword": "강아지 간식",
+   "firstSeen": "2026-10-23",
+   "history": [
+    {
+     "date": "2026-10-23",
+     "rank": 5,
+     "price": 26010,
+     "review": 5595,
+     "rating": 5,
+     "keyword": "강아지 간식"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 5,
+     "price": 26010,
+     "review": 5623,
+     "rating": 5.0,
+     "keyword": "강아지 간식"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-24",
+   "vendorItemId": "91556117339"
+  },
+  "9395234113": {
+   "id": "9395234113",
+   "productId": "9395234113",
+   "name": "코멧 사선컷팅 일반형 테이프 클리너 핸들 + 거치대 + 리필 1개 (16cm x 12m), 1세트",
+   "keyword": "강아지 털제거기",
+   "firstSeen": "2026-10-23",
+   "history": [
+    {
+     "date": "2026-10-23",
+     "rank": 7,
+     "price": 3490,
+     "review": 81,
+     "rating": 4.5,
+     "keyword": "강아지 털제거기"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 6,
+     "price": 3490,
+     "review": 81,
+     "rating": 4.5,
+     "keyword": "강아지 털제거기"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-24",
+   "vendorItemId": "94861369981"
+  },
+  "9642261942": {
+   "id": "9642261942",
+   "productId": "9642261942",
+   "name": "상덕 반려동물 반자동 급식기 자동급수 식기 강아지 고양이 겸용 물그릇 밥그릇, 1개, 화이트그레이",
+   "keyword": "강아지 자동급수기",
+   "firstSeen": "2026-10-23",
+   "history": [
+    {
+     "date": "2026-10-23",
+     "rank": 7,
+     "price": 17400,
+     "review": 59,
+     "rating": 4.5,
+     "keyword": "강아지 자동급수기"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 8,
+     "price": 17400,
+     "review": 60,
+     "rating": 4.5,
+     "keyword": "강아지 자동급수기"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-24",
+   "vendorItemId": "95747060414"
+  },
+  "5347956989": {
+   "id": "5347956989",
+   "productId": "5347956989",
+   "name": "생활백서 스탠드형 테이프 클리너 본품 + 리필 3p 세트, 1세트",
+   "keyword": "강아지 털제거기",
+   "firstSeen": "2026-10-23",
+   "history": [
+    {
+     "date": "2026-10-23",
+     "rank": 9,
+     "price": 9900,
+     "review": 3040,
+     "rating": 4.5,
+     "keyword": "강아지 털제거기"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 9,
+     "price": 9900,
+     "review": 3043,
+     "rating": 4.5,
+     "keyword": "강아지 털제거기"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-24",
+   "vendorItemId": "75147595557"
+  },
+  "8837611843": {
+   "id": "8837611843",
+   "productId": "8837611843",
+   "name": "헤이홈 IoT 카메라 스마트 펫 자동급식기, 5L, 혼합색상, 1개",
+   "keyword": "강아지 자동급식기",
+   "firstSeen": "2026-10-23",
+   "history": [
+    {
+     "date": "2026-10-23",
+     "rank": 9,
+     "price": 116100,
+     "review": 369,
+     "rating": 4.5,
+     "keyword": "강아지 자동급식기"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 9,
+     "price": 119970,
+     "review": 369,
+     "rating": 4.5,
+     "keyword": "강아지 자동급식기"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-24",
+   "vendorItemId": "94000968966"
+  },
+  "8123998680": {
+   "id": "8123998680",
+   "productId": "8123998680",
+   "name": "딩동펫 반려동물 스테인레스 콤브 브러쉬 중형, 실버, 1개",
+   "keyword": "강아지 털빗",
+   "firstSeen": "2026-10-23",
+   "history": [
+    {
+     "date": "2026-10-23",
+     "rank": 9,
+     "price": 3050,
+     "review": 367,
+     "rating": 4.5,
+     "keyword": "강아지 털빗"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 10,
+     "price": 3050,
+     "review": 367,
+     "rating": 4.5,
+     "keyword": "강아지 털빗"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-24",
+   "vendorItemId": "90088422388"
+  },
+  "6490426704": {
+   "id": "6490426704",
+   "productId": "6490426704",
+   "name": "잘먹잘싸 6free 강아지 사료, 연어, 2kg, 1개",
+   "keyword": "강아지 사료",
+   "firstSeen": "2026-10-23",
+   "history": [
+    {
+     "date": "2026-10-23",
+     "rank": 9,
+     "price": 16020,
+     "review": 51559,
+     "rating": 5,
+     "keyword": "강아지 사료"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-23",
+   "vendorItemId": "82054687112"
+  },
+  "9546430074": {
+   "id": "9546430074",
+   "productId": "9546430074",
+   "name": "위슬러 2세대 케이스포함 사선컷팅 테이프 클리너, 1세트",
+   "keyword": "강아지 털제거기",
+   "firstSeen": "2026-10-23",
+   "history": [
+    {
+     "date": "2026-10-23",
+     "rank": 10,
+     "price": 19900,
+     "review": 258,
+     "rating": 5,
+     "keyword": "강아지 털제거기"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 10,
+     "price": 19900,
+     "review": 258,
+     "rating": 5.0,
+     "keyword": "강아지 털제거기"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-24",
+   "vendorItemId": "95430621443"
+  },
+  "9707247377": {
+   "id": "9707247377",
+   "productId": "9707247377",
+   "name": "보니렌 퓨어냥프로 자동급수기 고양이 강아지, 1개, _화이트_",
+   "keyword": "강아지 자동급수기",
+   "firstSeen": "2026-10-23",
+   "history": [
+    {
+     "date": "2026-10-23",
+     "rank": 10,
+     "price": 59900,
+     "review": 58,
+     "rating": 5,
+     "keyword": "강아지 자동급수기"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 7,
+     "price": 59900,
+     "review": 59,
+     "rating": 5.0,
+     "keyword": "강아지 자동급수기"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-24",
+   "vendorItemId": "95969075380"
+  },
+  "150878901": {
+   "id": "150878901",
+   "productId": "150878901",
+   "name": "마도로스펫 반려동물 트릿 간식, 북어, 120g, 1개",
+   "keyword": "강아지 간식",
+   "firstSeen": "2026-10-23",
+   "history": [
+    {
+     "date": "2026-10-23",
+     "rank": 10,
+     "price": 14450,
+     "review": 25634,
+     "rating": 5,
+     "keyword": "강아지 간식"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 10,
+     "price": 14450,
+     "review": 25655,
+     "rating": 5.0,
+     "keyword": "강아지 간식"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-24",
+   "vendorItemId": "94641373401"
+  },
+  "187620492": {
+   "id": "187620492",
+   "productId": "187620492",
+   "name": "동원뉴트리플랜 고양이 모이스트루 습식 간식, 혼합맛(참치/닭고기), 80g, 12개",
+   "keyword": "고양이 간식",
+   "firstSeen": "2026-10-23",
+   "history": [
+    {
+     "date": "2026-10-23",
+     "rank": 10,
+     "price": 7920,
+     "review": 26659,
+     "rating": 5,
+     "keyword": "고양이 간식"
+    },
+    {
+     "date": "2026-10-24",
+     "rank": 10,
+     "price": 7920,
+     "review": 26725,
+     "rating": 5.0,
+     "keyword": "고양이 간식"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-24",
+   "vendorItemId": "4011243450"
+  },
+  "1951427832": {
+   "id": "1951427832",
+   "productId": "1951427832",
+   "name": "챠오츄르 고양이 구루메 버라이어티 간식 60p, 혼합맛(참치/가다랑어/닭가슴살), 840g, 1개",
+   "keyword": "고양이 간식",
+   "firstSeen": "2026-10-24",
+   "history": [
+    {
+     "date": "2026-10-24",
+     "rank": 4,
+     "price": 29990,
+     "review": 43694,
+     "rating": 5.0,
+     "keyword": "고양이 간식"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-24",
+   "vendorItemId": "95904331898"
+  },
+  "9138677066": {
+   "id": "9138677066",
+   "productId": "9138677066",
+   "name": "로제코 반려동물 와이파이 앱지원 자동급식기, 1개, 화이트, 2L",
+   "keyword": "강아지 자동급식기",
+   "firstSeen": "2026-10-24",
+   "history": [
+    {
+     "date": "2026-10-24",
+     "rank": 10,
+     "price": 39700,
+     "review": 158,
+     "rating": 4.5,
+     "keyword": "강아지 자동급식기"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-24",
+   "vendorItemId": "94780914284"
+  },
+  "9150828084": {
+   "id": "9150828084",
+   "productId": "9150828084",
+   "name": "HanilMedical 탄소열선 고급 전기요 HL-D205(25), 북극곰, M (100 x 180 cm)",
+   "keyword": "전기요",
+   "firstSeen": "2026-10-24",
+   "history": [
+    {
+     "date": "2026-10-24",
+     "rank": 1,
+     "price": 29800,
+     "review": 25,
+     "rating": 4.5,
+     "keyword": "전기요"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-24",
+   "vendorItemId": "70964612078"
+  },
+  "6718528503": {
+   "id": "6718528503",
+   "productId": "6718528503",
+   "name": "코멧 홈 양면 극세사 솔리드 차렵이불",
+   "keyword": "극세사 이불",
+   "firstSeen": "2026-10-24",
+   "history": [
+    {
+     "date": "2026-10-24",
+     "rank": 1,
+     "price": 19990,
+     "review": 5666,
+     "rating": 4.5,
+     "keyword": "극세사 이불"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-24",
+   "vendorItemId": "82837867060"
+  },
+  "324788226": {
+   "id": "324788226",
+   "productId": "324788226",
+   "name": "홈플래닛 초음파 가습기 4L, H1001D11",
+   "keyword": "가습기",
+   "firstSeen": "2026-10-24",
+   "history": [
+    {
+     "date": "2026-10-24",
+     "rank": 1,
+     "price": 28900,
+     "review": 2,
+     "rating": 4.5,
+     "keyword": "가습기"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-24",
+   "vendorItemId": "86953840553"
+  },
+  "8777937418": {
+   "id": "8777937418",
+   "productId": "8777937418",
+   "name": "NRC파충류 전기장판 히트매트, 1개, 12W(28X15cm)",
+   "keyword": "펫 난방매트",
+   "firstSeen": "2026-10-24",
+   "history": [
+    {
+     "date": "2026-10-24",
+     "rank": 1,
+     "price": 18390,
+     "review": 301,
+     "rating": 5.0,
+     "keyword": "펫 난방매트"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-24",
+   "vendorItemId": "92608964565"
+  },
+  "9716827173": {
+   "id": "9716827173",
+   "productId": "9716827173",
+   "name": "KURUA 두툼포근 양털 극세사 양면 보온력 겨울 이불 양털이불, 보헤미안",
+   "keyword": "극세사 이불",
+   "firstSeen": "2026-10-24",
+   "history": [
+    {
+     "date": "2026-10-24",
+     "rank": 2,
+     "price": 25600,
+     "review": 356,
+     "rating": 5.0,
+     "keyword": "극세사 이불"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-24",
+   "vendorItemId": "96168062897"
+  },
+  "135421920": {
+   "id": "135421920",
+   "productId": "135421920",
+   "name": "듀플렉스 초음파 가습기, DP-9090UH",
+   "keyword": "가습기",
+   "firstSeen": "2026-10-24",
+   "history": [
+    {
+     "date": "2026-10-24",
+     "rank": 2,
+     "price": 35800,
+     "review": 25709,
+     "rating": 4.5,
+     "keyword": "가습기"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-24",
+   "vendorItemId": "3118402668"
+  },
+  "9733483157": {
+   "id": "9733483157",
+   "productId": "9733483157",
+   "name": "NRC파충류 전기장판 히트매트, 5W(14X15cm), 1개",
+   "keyword": "펫 난방매트",
+   "firstSeen": "2026-10-24",
+   "history": [
+    {
+     "date": "2026-10-24",
+     "rank": 2,
+     "price": 15400,
+     "review": 162,
+     "rating": 4.5,
+     "keyword": "펫 난방매트"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-24",
+   "vendorItemId": "92608964575"
+  },
+  "9734718643": {
+   "id": "9734718643",
+   "productId": "9734718643",
+   "name": "[27년형 신상품] 한일의료기 탄소열선 프리미엄 전기요 그레이 민들레 더블 2인용 싱글 1인용, 더블 2인용(135 x 180cm)",
+   "keyword": "전기요",
+   "firstSeen": "2026-10-24",
+   "history": [
+    {
+     "date": "2026-10-24",
+     "rank": 3,
+     "price": 35900,
+     "review": 468,
+     "rating": 4.5,
+     "keyword": "전기요"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-24",
+   "vendorItemId": "96056382701"
+  },
+  "9736003309": {
+   "id": "9736003309",
+   "productId": "9736003309",
+   "name": "커버원 겨울 양털극세사 따뜻한 숙면 겨울이불세트",
+   "keyword": "극세사 이불",
+   "firstSeen": "2026-10-24",
+   "history": [
+    {
+     "date": "2026-10-24",
+     "rank": 3,
+     "price": 36800,
+     "review": 207,
+     "rating": 5.0,
+     "keyword": "극세사 이불"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-24",
+   "vendorItemId": "96060797105"
+  },
+  "8994002212": {
+   "id": "8994002212",
+   "productId": "8994002212",
+   "name": "SUNGOD 미니 가습기 듀얼미스트 500ml 무소음 무선 무드등 가정용 차량용 사무실 탁상용, 화이트, J8",
+   "keyword": "가습기",
+   "firstSeen": "2026-10-24",
+   "history": [
+    {
+     "date": "2026-10-24",
+     "rank": 3,
+     "price": 18800,
+     "review": 3,
+     "rating": 4.5,
+     "keyword": "가습기"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-24",
+   "vendorItemId": "96030147469"
+  },
+  "8789186633": {
+   "id": "8789186633",
+   "productId": "8789186633",
+   "name": "NRC파충류 전기장판 히트매트, 1개, 24W(28x28cm)",
+   "keyword": "펫 난방매트",
+   "firstSeen": "2026-10-24",
+   "history": [
+    {
+     "date": "2026-10-24",
+     "rank": 3,
+     "price": 24200,
+     "review": 77,
+     "rating": 4.5,
+     "keyword": "펫 난방매트"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-24",
+   "vendorItemId": "92608964549"
+  },
+  "9100498674": {
+   "id": "9100498674",
+   "productId": "9100498674",
+   "name": "[두툼한 27년형] 한일의료기 x 보나드 EMF 포담 전자파없는 탄소매트 워셔블 카본매트, 슈퍼싱글, 차콜",
+   "keyword": "전기요",
+   "firstSeen": "2026-10-24",
+   "history": [
+    {
+     "date": "2026-10-24",
+     "rank": 4,
+     "price": 62900,
+     "review": 2661,
+     "rating": 4.5,
+     "keyword": "전기요"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-24",
+   "vendorItemId": "93708545819"
+  },
+  "9715494837": {
+   "id": "9715494837",
+   "productId": "9715494837",
+   "name": "KURUA 따뜻한 도트 극세사 이불 세트 겨울 이불+패드+베개커버 침구 세트",
+   "keyword": "극세사 이불",
+   "firstSeen": "2026-10-24",
+   "history": [
+    {
+     "date": "2026-10-24",
+     "rank": 4,
+     "price": 39800,
+     "review": 186,
+     "rating": 5.0,
+     "keyword": "극세사 이불"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-24",
+   "vendorItemId": "96000045489"
+  },
+  "9156272560": {
+   "id": "9156272560",
+   "productId": "9156272560",
+   "name": "[백화점 입점] 풀라스 UV 살균 대용량 무선 미니 가습기 1위 무소음 책상 사무실 탁상용 휴대용 여행용 차량용 가정용 원룸 소형 무드등 통세척 초음파 room humidifier, 화이트, FL-HF1000",
+   "keyword": "가습기",
+   "firstSeen": "2026-10-24",
+   "history": [
+    {
+     "date": "2026-10-24",
+     "rank": 4,
+     "price": 44890,
+     "review": 569,
+     "rating": 4.5,
+     "keyword": "가습기"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-24",
+   "vendorItemId": "93935084187"
+  },
+  "9124453305": {
+   "id": "9124453305",
+   "productId": "9124453305",
+   "name": "한일좋은자리 강아지 고양이 전기방석 탄소매트 카본 네이비, 중형(40 x 60 cm)",
+   "keyword": "펫 난방매트",
+   "firstSeen": "2026-10-24",
+   "history": [
+    {
+     "date": "2026-10-24",
+     "rank": 4,
+     "price": 29800,
+     "review": 176,
+     "rating": 4.5,
+     "keyword": "펫 난방매트"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-24",
+   "vendorItemId": "93812061494"
+  },
+  "9718465477": {
+   "id": "9718465477",
+   "productId": "9718465477",
+   "name": "[27년형 당일발송] 한일의료기 전자파 안심 탄소매트 세탁가능, 싱글(100x180), 라인체크그레이",
+   "keyword": "전기요",
+   "firstSeen": "2026-10-24",
+   "history": [
+    {
+     "date": "2026-10-24",
+     "rank": 5,
+     "price": 54900,
+     "review": 493,
+     "rating": 4.5,
+     "keyword": "전기요"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-24",
+   "vendorItemId": "96007684791"
+  },
+  "9716803611": {
+   "id": "9716803611",
+   "productId": "9716803611",
+   "name": "KURUA 겨울 심플한 두툼포근 먼지없는 극세사 겨울 이불",
+   "keyword": "극세사 이불",
+   "firstSeen": "2026-10-24",
+   "history": [
+    {
+     "date": "2026-10-24",
+     "rank": 5,
+     "price": 24000,
+     "review": 172,
+     "rating": 5.0,
+     "keyword": "극세사 이불"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-24",
+   "vendorItemId": "96046307019"
+  },
+  "9039184892": {
+   "id": "9039184892",
+   "productId": "9039184892",
+   "name": "Rotima 대용량 초음파 가습기 4L 무소음 무드등 간편 통세척 사무실 탁상용 가정용 가습기, 화이트, J6",
+   "keyword": "가습기",
+   "firstSeen": "2026-10-24",
+   "history": [
+    {
+     "date": "2026-10-24",
+     "rank": 5,
+     "price": 24900,
+     "review": 8,
+     "rating": 5.0,
+     "keyword": "가습기"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-24",
+   "vendorItemId": "96041413864"
+  },
+  "8595613823": {
+   "id": "8595613823",
+   "productId": "8595613823",
+   "name": "펫팸 반려동물 온열매트, 1개",
+   "keyword": "펫 난방매트",
+   "firstSeen": "2026-10-24",
+   "history": [
+    {
+     "date": "2026-10-24",
+     "rank": 5,
+     "price": 19900,
+     "review": 678,
+     "rating": 4.5,
+     "keyword": "펫 난방매트"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-24",
+   "vendorItemId": "3065951471"
+  },
+  "8329391781": {
+   "id": "8329391781",
+   "productId": "8329391781",
+   "name": "YOUPAN 양털이불 캐시미어 이불 겨울 이불 극세사 이불",
+   "keyword": "극세사 이불",
+   "firstSeen": "2026-10-24",
+   "history": [
+    {
+     "date": "2026-10-24",
+     "rank": 6,
+     "price": 30960,
+     "review": 7800,
+     "rating": 4.5,
+     "keyword": "극세사 이불"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-24",
+   "vendorItemId": "87164277012"
+  },
+  "8412923623": {
+   "id": "8412923623",
+   "productId": "8412923623",
+   "name": "한경희생활과학 초저소음 물멍 무드등 초음파 가습기, HAAN-HD700M, 핑크 그레이",
+   "keyword": "가습기",
+   "firstSeen": "2026-10-24",
+   "history": [
+    {
+     "date": "2026-10-24",
+     "rank": 6,
+     "price": 29900,
+     "review": 4531,
+     "rating": 4.5,
+     "keyword": "가습기"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-24",
+   "vendorItemId": "91704171888"
+  },
+  "9717922733": {
+   "id": "9717922733",
+   "productId": "9717922733",
+   "name": "[2026년 최신] 한일의료기 국산 탄소열선 고양이 강아지 전기방석 온열방석 (소) 고양이히터 히팅패드, 고양이방석 소, 그레이",
+   "keyword": "펫 난방매트",
+   "firstSeen": "2026-10-24",
+   "history": [
+    {
+     "date": "2026-10-24",
+     "rank": 6,
+     "price": 14680,
+     "review": 11,
+     "rating": 4.0,
+     "keyword": "펫 난방매트"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-24",
+   "vendorItemId": "96005858547"
+  },
+  "8420782647": {
+   "id": "8420782647",
+   "productId": "8420782647",
+   "name": "편리한공간 두꺼운 극세사 우유 양털 겨울이불",
+   "keyword": "극세사 이불",
+   "firstSeen": "2026-10-24",
+   "history": [
+    {
+     "date": "2026-10-24",
+     "rank": 7,
+     "price": 49800,
+     "review": 1182,
+     "rating": 4.5,
+     "keyword": "극세사 이불"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-24",
+   "vendorItemId": "91371245726"
+  },
+  "9738784355": {
+   "id": "9738784355",
+   "productId": "9738784355",
+   "name": "한경희생활과학 저소음 간편 통세척 초음파 가습기, 화이트, HA-HD2300L",
+   "keyword": "가습기",
+   "firstSeen": "2026-10-24",
+   "history": [
+    {
+     "date": "2026-10-24",
+     "rank": 7,
+     "price": 28900,
+     "review": 235,
+     "rating": 5.0,
+     "keyword": "가습기"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-24",
+   "vendorItemId": "96070382121"
+  },
+  "9720590309": {
+   "id": "9720590309",
+   "productId": "9720590309",
+   "name": "[두께UP] 한일좋은자리 전자파없는 카본 탄소 강아지 고양이 온열 전기방석, 1개, 스톤그레이",
+   "keyword": "펫 난방매트",
+   "firstSeen": "2026-10-24",
+   "history": [
+    {
+     "date": "2026-10-24",
+     "rank": 7,
+     "price": 29800,
+     "review": 12,
+     "rating": 4.5,
+     "keyword": "펫 난방매트"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-24",
+   "vendorItemId": "96015362924"
+  },
+  "9710617543": {
+   "id": "9710617543",
+   "productId": "9710617543",
+   "name": "[2027년형 신제품] 한일의료기 탄소 카본열선 전기요 국산 전기장판 전기매트 도트포우, 중(100 x 180 cm)",
+   "keyword": "전기요",
+   "firstSeen": "2026-10-24",
+   "history": [
+    {
+     "date": "2026-10-24",
+     "rank": 8,
+     "price": 33800,
+     "review": 346,
+     "rating": 4.5,
+     "keyword": "전기요"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-24",
+   "vendorItemId": "95980407450"
+  },
+  "9739396867": {
+   "id": "9739396867",
+   "productId": "9739396867",
+   "name": "COVERONE 찬기운 막아주는 코듀로이 양면 극세사 겨울 차렵이불",
+   "keyword": "극세사 이불",
+   "firstSeen": "2026-10-24",
+   "history": [
+    {
+     "date": "2026-10-24",
+     "rank": 8,
+     "price": 27800,
+     "review": 177,
+     "rating": 5.0,
+     "keyword": "극세사 이불"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-24",
+   "vendorItemId": "96072569868"
+  },
+  "9707319522": {
+   "id": "9707319522",
+   "productId": "9707319522",
+   "name": "닥터하르 5L 대용량 미니 듀얼 초음파 미스트 저소음 무드등 아기 신생아 가습기, 화이트, 5L 대용량 듀얼 가습기",
+   "keyword": "가습기",
+   "firstSeen": "2026-10-24",
+   "history": [
+    {
+     "date": "2026-10-24",
+     "rank": 8,
+     "price": 29800,
+     "review": 3,
+     "rating": 5.0,
+     "keyword": "가습기"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-24",
+   "vendorItemId": "95969323734"
+  },
+  "8595970184": {
+   "id": "8595970184",
+   "productId": "8595970184",
+   "name": "렙티언즈 파충류 전기장판 소동물 레오파드게코, 1개, 10x20cm",
+   "keyword": "펫 난방매트",
+   "firstSeen": "2026-10-24",
+   "history": [
+    {
+     "date": "2026-10-24",
+     "rank": 8,
+     "price": 15800,
+     "review": 317,
+     "rating": 5.0,
+     "keyword": "펫 난방매트"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-24",
+   "vendorItemId": "91401193012"
+  },
+  "9713562073": {
+   "id": "9713562073",
+   "productId": "9713562073",
+   "name": "KURUA 입체 플라워 포근 프리미엄 극세사 겨울 이불세트",
+   "keyword": "극세사 이불",
+   "firstSeen": "2026-10-24",
+   "history": [
+    {
+     "date": "2026-10-24",
+     "rank": 9,
+     "price": 36900,
+     "review": 148,
+     "rating": 5.0,
+     "keyword": "극세사 이불"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-24",
+   "vendorItemId": "96101765716"
+  },
+  "9749503627": {
+   "id": "9749503627",
+   "productId": "9749503627",
+   "name": "[ 2027년형 신제품 ] 대웅 모닝컴 포트형 올스텐 가열식 가습기 SUS316 통세척 차일드락 타이머 자동세척, 아이보리, DWH-R27IV",
+   "keyword": "가습기",
+   "firstSeen": "2026-10-24",
+   "history": [
+    {
+     "date": "2026-10-24",
+     "rank": 9,
+     "price": 59800,
+     "review": 6,
+     "rating": 4.5,
+     "keyword": "가습기"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-24",
+   "vendorItemId": "96115771470"
+  },
+  "9156251673": {
+   "id": "9156251673",
+   "productId": "9156251673",
+   "name": "[26년형 두께UP] 한일좋은자리 전자파없는 프리미엄 양면극세사 강아지 고양이 탄소 전기 온열 방석, 중형(40X60cm), 아이보리",
+   "keyword": "펫 난방매트",
+   "firstSeen": "2026-10-24",
+   "history": [
+    {
+     "date": "2026-10-24",
+     "rank": 9,
+     "price": 32800,
+     "review": 38,
+     "rating": 4.5,
+     "keyword": "펫 난방매트"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-24",
+   "vendorItemId": "93934986657"
+  },
+  "2156360592": {
+   "id": "2156360592",
+   "productId": "2156360592",
+   "name": "엘렌 레몬그라스 극세사 차렵이불",
+   "keyword": "극세사 이불",
+   "firstSeen": "2026-10-24",
+   "history": [
+    {
+     "date": "2026-10-24",
+     "rank": 10,
+     "price": 40280,
+     "review": 1906,
+     "rating": 5.0,
+     "keyword": "극세사 이불"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-24",
+   "vendorItemId": "73413973478"
+  },
+  "8371426122": {
+   "id": "8371426122",
+   "productId": "8371426122",
+   "name": "알리사 미니 초음파 사무용 무선 탁상용 충전식 가습기 700ml + 필터 4p 세트, AH1, 화이트",
+   "keyword": "가습기",
+   "firstSeen": "2026-10-24",
+   "history": [
+    {
+     "date": "2026-10-24",
+     "rank": 10,
+     "price": 25520,
+     "review": 5749,
+     "rating": 4.5,
+     "keyword": "가습기"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-24",
+   "vendorItemId": "93060581945"
+  },
+  "4751077351": {
+   "id": "4751077351",
+   "productId": "4751077351",
+   "name": "파충류 전기장판 최고급형, 대 41x21",
+   "keyword": "펫 난방매트",
+   "firstSeen": "2026-10-24",
+   "history": [
+    {
+     "date": "2026-10-24",
+     "rank": 10,
+     "price": 20940,
+     "review": 184,
+     "rating": 4.5,
+     "keyword": "펫 난방매트"
+    }
+   ],
+   "videoStatus": "미생성",
+   "postUrl": null,
+   "usedAt": null,
+   "lastSeen": "2026-10-24",
+   "vendorItemId": "73343249206"
   }
  },
- "updated": "2026-10-16",
+ "updated": "2026-10-24",
  "key": "productId",
  "migratedAt": "2026-10-16",
  "migrationNote": "vendorItemId(data-id) 키 → productId. 구 스냅샷은 상품명 앞 20자 대조, 미대조분은 'n:' 키"

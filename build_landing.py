@@ -21,13 +21,17 @@ import json, os, sys, html, datetime
 
 BASE = "https://donkihotae78-ship-it.github.io/kkultem"
 BRAND = "꿀템 상점"
-YOUTUBE = "https://www.youtube.com/@hotaeshin502"
-INSTAGRAM = "https://www.instagram.com/shin.hotae/"
+YOUTUBE = "https://www.youtube.com/@kkultemtv"
+INSTAGRAM = "https://www.instagram.com/kkultem.shop/"
 # 네이버 블로그 「꿀템 상점」 (2026-10-22 연결). 올리브영은 자체 웹사이트를 허용
 # 채널로 인정하지 않으므로(AUTORUN 27.1) 블로그가 몰 확장의 본진이다.
 BLOG = "https://blog.naver.com/kkultemshop"
 DISCLOSURE = ("이 포스팅은 쿠팡 파트너스 활동의 일환으로, "
               "이에 따른 일정액의 수수료를 제공받습니다.")
+# 네이버 크리에이터샵 — 쇼핑 커넥트 발급 링크 모음 (2026-11-13 개설)
+CREATOR_SHOP = "https://cshop.naver.com/kkultemshop/products"
+DISCLOSURE_NAVER = ("이 포스팅은 네이버 쇼핑 커넥트 활동의 일환으로, "
+                    "판매 발생 시 수수료를 제공받습니다.")
 MAX_CARDS = 12
 
 CSS = """
@@ -271,6 +275,12 @@ def index_page(live, checks):
       <li>가격은 수집 시점 기준이므로 구매 전 판매 페이지에서 반드시 확인해야 합니다.</li>
       <li>효능·품질에 대한 판단은 담지 않습니다. 공개 수치만 기록합니다.</li>
     </ul>
+
+    <h2>추천 상품 모음</h2>
+    <div class="notice">{DISCLOSURE_NAVER}</div>
+    <div class="links">
+      <a href="{CREATOR_SHOP}" target="_blank" rel="nofollow noopener sponsored">꿀템 상점 추천 상품 보기</a>
+    </div>
 
     <div class="links">
       <a href="{BLOG}" target="_blank" rel="noopener">네이버 블로그 꿀템 상점</a>
